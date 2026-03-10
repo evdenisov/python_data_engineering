@@ -4,7 +4,7 @@ from datetime import datetime
 
 with DAG(
     'load_support_tickets_analytics',
-    description='Загрузка минимальной аналитики по тикетам',
+    description='Загрузка аналитики по тикетам',
     schedule_interval=None,
     start_date=datetime(2026, 1, 1),
     catchup=False,
@@ -26,7 +26,7 @@ with DAG(
         -- Очищаем таблицу
         TRUNCATE TABLE mart.support_tickets_analytics;
         
-        -- Загружаем данные (ровно как в запросе)
+        -- Загружаем данные
         INSERT INTO mart.support_tickets_analytics (
             ticket_id, status, issue_type, resolve_duration
         )

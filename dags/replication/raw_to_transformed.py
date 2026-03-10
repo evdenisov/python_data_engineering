@@ -197,7 +197,6 @@ WHERE data->>'event_id' IS NOT NULL;
 """
 
 # Трансформация user_sessions
-# Трансформация user_sessions (с преобразованием массивов в строки)
 SQL_TRANSFORM_USER_SESSIONS = """
 -- Очищаем таблицу
 TRUNCATE TABLE raw.transformed_user_sessions;

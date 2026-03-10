@@ -76,7 +76,7 @@ def load_all_data(**context):
 dag = DAG(
     'mongo_to_postgres_raw',
     default_args=default_args,
-    description='Супер-простая загрузка из MongoDB',
+    description='Загрузка из MongoDB',
     schedule_interval='*/15 * * * *',
     catchup=False,
     tags=['mongodb', 'postgresql'],

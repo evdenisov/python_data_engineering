@@ -11,7 +11,7 @@ with DAG(
     tags=['mart'],
 ) as dag:
 
-    # Загрузка основной таблицы (без actions_count и pages_visited_count)
+    # Загрузка основной таблицы
     load_main = PostgresOperator(
         task_id='load_sessions_main',
         postgres_conn_id='postgres_default',
