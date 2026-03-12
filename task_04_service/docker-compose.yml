@@ -1,0 +1,38 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: energy-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/data.csv:/app/data.csv
+      - ./backend:/app
+    networks:
+      - energy-network
+    # Упрощенный healthcheck без curl
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: energy-frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./frontend:/app
+    depends_on:
+      - backend  # Убрали condition, чтобы не ждать healthcheck
+    networks:
+      - energy-network
+
+networks:
+  energy-network:
+    driver: bridge
