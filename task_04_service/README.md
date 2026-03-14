@@ -6,7 +6,7 @@
 - **Backend**: FastAPI (порт 8000) - обработка данных и API
 - **Frontend**: Streamlit (порт 8501) - пользовательский интерфейс
 
-### 1.Установка и запуск
+## 1.Установка и запуск
 
 ### Клонируйте репозиторий
 git clone https://github.com/evdenisov/python_data_engineering
