@@ -40,7 +40,7 @@ def load_data():
         if os.path.exists(DATA_FILE):
             logger.info(f"Loading data from {DATA_FILE}")
             
-            # Читаем файл (у вашего CSV уже правильные названия колонок!)
+            # Читаем файл
             df = pd.read_csv(DATA_FILE)
             logger.info(f"Data loaded: {len(df)} rows")
             logger.info(f"Columns in CSV: {list(df.columns)}")
@@ -52,7 +52,7 @@ def load_data():
             return df
         else:
             logger.warning(f"File {DATA_FILE} not found, creating empty dataframe")
-            # Создаем пустой DataFrame с правильными колонками
+            # Создаем пустой DataFrame
             return pd.DataFrame(columns=['id', 'timestamp', 'consumption_europe', 
                                         'consumption_asia', 'price_europe', 'price_asia'])
     except Exception as e:
