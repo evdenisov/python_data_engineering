@@ -1,0 +1,115 @@
+version: '3.8'
+
+x-airflow-common:
+  &airflow-common
+  build: . #apache/airflow:2.7.0
+  environment:
+    &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    AIRFLOW__CORE__FERNET_KEY: ''
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: 'true'
+    AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
+    AIRFLOW__SCHEDULER__MIN_FILE_PROCESS_INTERVAL: 10
+    AIRFLOW__API__AUTH_BACKEND: 'airflow.api.auth.backend.basic_auth'
+    AIRFLOW__CORE__TEST_CONNECTION: "Enabled"
+    AIRFLOW__CORE__DAG_DISCOVERY_SAFE_MODE: "False"  # Разрешить поиск в подпапках
+    AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags  # Корневая папка для поиска
+    AIRFLOW__OPENLINEAGE__IS_ENABLED: "False"
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./plugins:/opt/airflow/plugins
+    - ./config:/opt/airflow/config
+  user: "${AIRFLOW_UID:-50000}:${AIRFLOW_GID:-50000}"
+  depends_on:
+    postgres:
+      condition: service_healthy
+    mongodb:  # Добавляем зависимость от MongoDB
+      condition: service_healthy
+
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres-db-volume:/var/lib/postgresql/data
+      - ./init-postgres.sql:/docker-entrypoint-initdb.d/init-postgres.sql
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 5s
+      retries: 5
+    restart: always
+    networks:
+      - airflow-network  # Добавляем сеть
+
+  # НОВЫЙ СЕРВИС: MongoDB
+  mongodb:
+    image: mongo:6.0  # Используем официальный образ MongoDB 6.0
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"  # Стандартный порт MongoDB
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin  # root пользователь
+      MONGO_INITDB_ROOT_PASSWORD: admin123  # пароль root
+      MONGO_INITDB_DATABASE: sourcedb  # база данных по умолчанию
+    volumes:
+      - mongodb-data-volume:/data/db  # Том для хранения данных
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro  # Скрипт инициализации
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh mongodb://admin:admin123@localhost:27017/admin --quiet
+      interval: 10s
+      timeout: 10s
+      retries: 5
+    networks:
+      - airflow-network
+
+  airflow-webserver:
+    <<: *airflow-common
+    command: webserver
+    ports:
+      - "8081:8080"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+    restart: always
+    networks:
+      - airflow-network
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: scheduler
+    restart: always
+    networks:
+      - airflow-network
+
+  airflow-init:
+    <<: *airflow-common
+    command: version
+    environment:
+      <<: *airflow-common-env
+      _AIRFLOW_DB_UPGRADE: 'true'
+      _AIRFLOW_WWW_USER_CREATE: 'true'
+      _AIRFLOW_WWW_USER_USERNAME: admin
+      _AIRFLOW_WWW_USER_PASSWORD: admin
+      _AIRFLOW_WWW_USER_FIRSTNAME: Admin
+      _AIRFLOW_WWW_USER_LASTNAME: User
+      _AIRFLOW_WWW_USER_EMAIL: admin@example.com
+    networks:
+      - airflow-network
+
+volumes:
+  postgres-db-volume:
+  mongodb-data-volume:  # том для MongoDB
+
+networks:
+  airflow-network:  # сеть для связи между контейнерами
+    driver: bridge
