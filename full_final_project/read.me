@@ -1,0 +1,114 @@
+--------------------------------------------
+ПОДГОТОВКА СРЕДЫ
+--------------------------------------------
+
+КЛОНИРОВАНИЕ
+git clone https://github.com/evdenisov/python_data_engineering.git
+cd python_data_engineering
+git checkout the_very_final_project
+
+ПОДГОТОВКА ДАННЫХ
+mkdir -p dags/data/parquet
+# Скопируйте parquet файлы в dags/data/parquet/
+
+ЗАПУСК ПРОЕКТА
+docker-compose up -d
+
+
+--------------------------------------------
+ПОДКЛЮЧЕНИЕ
+--------------------------------------------
+Открыть http://localhost:8081
+Логин/пароль: admin/admin
+Admin → Connections → Добавить:
+Conn Id: postgres_default
+Conn Type: Postgres
+Host: postgres
+Login: airflow
+Password: airflow
+Port: 5432
+Schema: airflow
+
+--------------------------------------------
+ЗАПУСУ ПАЙПЛАЙНА
+--------------------------------------------
+Запустите даг PDE_dags_launcher.py
+Дождитесь отработки всех данных
+Проверьте получившиеся отношения в созданной схеме
+
+
+--------------------------------------------
+ОПИСАНИЕ ДАГОВ
+--------------------------------------------
+
+1. PDE_0_create_schema_and_tables
+Назначение: Создание схемы и всех необходимых таблиц в PostgreSQL
+Создает схему hse_python_etl_project
+
+Создает таблицы:
+raw_parquet_data – сырые данные из parquet
+transformed_data – трансформированные данные
+users, drivers, stores, items – справочники
+orders, order_items – основные таблицы заказов
+order_status_history – история статусов
+item_replacements – замены товаров
+order_aggregates – агрегаты по заказам
+items_aggregates – агрегаты по товарам
+Запуск: @once (один раз)
+
+2. PDE_1_extract_parquet_data
+Назначение: Загрузка parquet файлов в сырую таблицу
+Читает parquet файлы из папки /opt/airflow/dags/data/parquet
+Ограничение: загружает только 1 файл для тестирования
+Преобразует данные в JSON и сохраняет в raw_parquet_data
+Обрабатывает NaN и Timestamp
+
+3. PDE_2_transform_raw_data
+Назначение: Трансформация сырых данных в структурированную таблицу
+Очищает таблицу transformed_data
+Преобразует JSON из raw_parquet_data в структурированные поля:
+числовые типы (BIGINT, INTEGER, NUMERIC)
+временные метки (TIMESTAMP)
+Нормализует телефоны (удаляет лишние символы, заменяет 7 на 8)
+
+4. PDE_3_load_data_to_3nf
+Назначение: Загрузка данных в нормализованные таблицы 3NF
+Заполняет справочники: users, drivers, stores, items
+Заполняет таблицы: orders, order_items, order_status_history, item_replacements
+Группирует товары в заказах (суммирует количество)
+Удаляет дубликаты статусов
+
+5. PDE_4_mart_load_order_aggregates
+Назначение: Формирование витрины агрегированных данных по заказам
+Агрегирует данные по дням из таблицы orders
+Рассчитывает метрики:
+оборот, выручка, прибыль
+количество заказов, доставленных, отмененных
+количество пользователей и водителей
+средние показатели
+
+6. PDE_5_load_items_aggregates
+Назначение: Формирование витрины агрегированных данных по товарам
+
+Агрегирует данные по товарам по дням/неделям/месяцам
+Рассчитывает:
+оборот товара
+количество заказанных и отмененных единиц
+количество заказов с товаром
+Определяет самые популярные товары за день, неделю, месяц
+Результат: Таблица items_aggregates с флагами популярности
+
+7. PDE_launcher (Оркестратор)
+Назначение: Последовательный запуск всех DAG
+
+Запускает DAG в строгой последовательности:
+
+PDE_0_create_schema_and_tables
+PDE_1_extract_parquet_data
+PDE_2_transform_raw_data
+PDE_3_load_data_to_3nf
+PDE_4_mart_load_order_aggregates
+PDE_5_load_items_aggregates
+Дожидается успешного завершения каждого DAG
+
+Останавливается при ошибке

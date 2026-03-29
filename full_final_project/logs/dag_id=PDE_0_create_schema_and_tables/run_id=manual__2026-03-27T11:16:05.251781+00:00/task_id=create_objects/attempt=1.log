@@ -1,0 +1,32 @@
+[2026-03-27T11:16:06.066+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_0_create_schema_and_tables.create_objects manual__2026-03-27T11:16:05.251781+00:00 [queued]>
+[2026-03-27T11:16:06.068+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_0_create_schema_and_tables.create_objects manual__2026-03-27T11:16:05.251781+00:00 [queued]>
+[2026-03-27T11:16:06.068+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-27T11:16:06.073+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): create_objects> on 2026-03-27 11:16:05.251781+00:00
+[2026-03-27T11:16:06.075+0000] {standard_task_runner.py:57} INFO - Started process 1290 to run task
+[2026-03-27T11:16:06.076+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_0_create_schema_and_tables', 'create_objects', 'manual__2026-03-27T11:16:05.251781+00:00', '--job-id', '29', '--raw', '--subdir', 'DAGS_FOLDER/PDE_0_create_schema_and_tables.py', '--cfg-path', '/tmp/tmp1y_x8bw_']
+[2026-03-27T11:16:06.077+0000] {standard_task_runner.py:85} INFO - Job 29: Subtask create_objects
+[2026-03-27T11:16:06.092+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_0_create_schema_and_tables.create_objects manual__2026-03-27T11:16:05.251781+00:00 [running]> on host b8b4e475d066
+[2026-03-27T11:16:06.117+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_0_create_schema_and_tables' AIRFLOW_CTX_TASK_ID='create_objects' AIRFLOW_CTX_EXECUTION_DATE='2026-03-27T11:16:05.251781+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-27T11:16:05.251781+00:00'
+[2026-03-27T11:16:06.120+0000] {base.py:73} INFO - Using connection ID 'postgres_default' for task execution.
+[2026-03-27T11:16:06.125+0000] {logging_mixin.py:151} INFO - 🗑️ Старые таблицы удалены
+[2026-03-27T11:16:06.140+0000] {logging_mixin.py:151} INFO - ✅ Все таблицы созданы успешно
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO - 
+📋 Созданные таблицы:
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - drivers
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - item_replacements
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - items
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - items_aggregates
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - order_aggregates
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - order_items
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - order_status_history
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - orders
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - raw_parquet_data
+[2026-03-27T11:16:06.142+0000] {logging_mixin.py:151} INFO -    - stores
+[2026-03-27T11:16:06.143+0000] {logging_mixin.py:151} INFO -    - transformed_data
+[2026-03-27T11:16:06.143+0000] {logging_mixin.py:151} INFO -    - users
+[2026-03-27T11:16:06.143+0000] {logging_mixin.py:151} INFO - 
+📊 Всего создано таблиц: 12
+[2026-03-27T11:16:06.143+0000] {python.py:194} INFO - Done. Returned value was: None
+[2026-03-27T11:16:06.147+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PDE_0_create_schema_and_tables, task_id=create_objects, execution_date=20260327T111605, start_date=20260327T111606, end_date=20260327T111606
+[2026-03-27T11:16:06.174+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-27T11:16:06.181+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check

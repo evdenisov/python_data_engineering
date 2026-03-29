@@ -1,0 +1,28 @@
+[2026-03-27T11:13:49.782+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_launcher.trigger_extract_parquet_data scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-27T11:13:49.785+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_launcher.trigger_extract_parquet_data scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-27T11:13:49.785+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-27T11:13:49.789+0000] {taskinstance.py:1382} INFO - Executing <Task(TriggerDagRunOperator): trigger_extract_parquet_data> on 2024-01-01 00:00:00+00:00
+[2026-03-27T11:13:49.791+0000] {standard_task_runner.py:57} INFO - Started process 799 to run task
+[2026-03-27T11:13:49.792+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_launcher', 'trigger_extract_parquet_data', 'scheduled__2024-01-01T00:00:00+00:00', '--job-id', '18', '--raw', '--subdir', 'DAGS_FOLDER/PDE_dags_launcher.py', '--cfg-path', '/tmp/tmpcdqtbn6l']
+[2026-03-27T11:13:49.793+0000] {standard_task_runner.py:85} INFO - Job 18: Subtask trigger_extract_parquet_data
+[2026-03-27T11:13:49.810+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_launcher.trigger_extract_parquet_data scheduled__2024-01-01T00:00:00+00:00 [running]> on host b8b4e475d066
+[2026-03-27T11:13:49.834+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_launcher' AIRFLOW_CTX_TASK_ID='trigger_extract_parquet_data' AIRFLOW_CTX_EXECUTION_DATE='2024-01-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-01-01T00:00:00+00:00'
+[2026-03-27T11:13:49.853+0000] {trigger_dagrun.py:209} INFO - Waiting for PDE_1_extract_parquet_data on 2026-03-27T11:13:49.834600+00:00 to become allowed state ['success'] ...
+[2026-03-27T11:13:59.863+0000] {trigger_dagrun.py:222} INFO - PDE_1_extract_parquet_data finished with allowed state success
+[2026-03-27T11:13:59.873+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PDE_launcher, task_id=trigger_extract_parquet_data, execution_date=20240101T000000, start_date=20260327T111349, end_date=20260327T111359
+[2026-03-27T11:13:59.889+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-27T11:13:59.904+0000] {taskinstance.py:2784} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-03-28T11:44:25.192+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_launcher.trigger_extract_parquet_data scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-28T11:44:25.196+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_launcher.trigger_extract_parquet_data scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-28T11:44:25.196+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-28T11:44:25.200+0000] {taskinstance.py:1382} INFO - Executing <Task(TriggerDagRunOperator): trigger_extract_parquet_data> on 2024-01-01 00:00:00+00:00
+[2026-03-28T11:44:25.202+0000] {standard_task_runner.py:57} INFO - Started process 367 to run task
+[2026-03-28T11:44:25.203+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_launcher', 'trigger_extract_parquet_data', 'scheduled__2024-01-01T00:00:00+00:00', '--job-id', '23', '--raw', '--subdir', 'DAGS_FOLDER/PDE_dags_launcher.py', '--cfg-path', '/tmp/tmpu4il_gyp']
+[2026-03-28T11:44:25.204+0000] {standard_task_runner.py:85} INFO - Job 23: Subtask trigger_extract_parquet_data
+[2026-03-28T11:44:25.222+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_launcher.trigger_extract_parquet_data scheduled__2024-01-01T00:00:00+00:00 [running]> on host fff55fa1f1fa
+[2026-03-28T11:44:25.247+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_launcher' AIRFLOW_CTX_TASK_ID='trigger_extract_parquet_data' AIRFLOW_CTX_EXECUTION_DATE='2024-01-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-01-01T00:00:00+00:00'
+[2026-03-28T11:44:25.268+0000] {trigger_dagrun.py:209} INFO - Waiting for PDE_1_extract_parquet_data on 2026-03-28T11:44:25.248216+00:00 to become allowed state ['success'] ...
+[2026-03-28T11:44:35.298+0000] {trigger_dagrun.py:222} INFO - PDE_1_extract_parquet_data finished with allowed state success
+[2026-03-28T11:44:35.311+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PDE_launcher, task_id=trigger_extract_parquet_data, execution_date=20240101T000000, start_date=20260328T114425, end_date=20260328T114435
+[2026-03-28T11:44:35.323+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-28T11:44:35.339+0000] {taskinstance.py:2784} INFO - 1 downstream tasks scheduled from follow-on schedule check

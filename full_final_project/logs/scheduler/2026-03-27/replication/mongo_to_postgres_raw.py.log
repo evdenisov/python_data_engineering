@@ -1,0 +1,557 @@
+[2026-03-27T10:55:57.882+0000] {processor.py:157} INFO - Started process (PID=191) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:55:57.882+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:55:57.884+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:57.883+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:55:57.996+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:55:58.036+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:58.036+0000] {manager.py:501} INFO - Created Permission View: can edit on DAG:mongo_to_postgres_raw
+[2026-03-27T10:55:58.040+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:58.040+0000] {manager.py:501} INFO - Created Permission View: can read on DAG:mongo_to_postgres_raw
+[2026-03-27T10:55:58.042+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:58.042+0000] {manager.py:501} INFO - Created Permission View: can delete on DAG:mongo_to_postgres_raw
+[2026-03-27T10:55:58.047+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:58.047+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:55:58.051+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:58.050+0000] {dag.py:2929} INFO - Creating ORM DAG for mongo_to_postgres_raw
+[2026-03-27T10:55:58.055+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:55:58.054+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:55:58.062+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.183 seconds
+[2026-03-27T10:56:08.450+0000] {processor.py:157} INFO - Started process (PID=242) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:08.451+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:56:08.453+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:08.453+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:08.460+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:08.469+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:08.469+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:56:08.483+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:08.483+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:56:08.497+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.049 seconds
+[2026-03-27T10:56:18.936+0000] {processor.py:157} INFO - Started process (PID=292) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:18.937+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:56:18.938+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:18.938+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:18.947+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:18.956+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:18.956+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:56:18.970+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:18.970+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:56:18.979+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.045 seconds
+[2026-03-27T10:56:29.384+0000] {processor.py:157} INFO - Started process (PID=338) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:29.385+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:56:29.386+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:29.386+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:29.396+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:29.405+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:29.405+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:56:29.414+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:29.414+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:56:29.421+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T10:56:39.873+0000] {processor.py:157} INFO - Started process (PID=388) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:39.874+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:56:39.874+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:39.874+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:39.880+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:39.891+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:39.890+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:56:39.901+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:39.901+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:56:39.909+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T10:56:50.301+0000] {processor.py:157} INFO - Started process (PID=434) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:50.303+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:56:50.305+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:50.305+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:50.312+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:56:50.324+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:50.324+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:56:50.337+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:56:50.337+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:56:50.345+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.047 seconds
+[2026-03-27T10:57:00.747+0000] {processor.py:157} INFO - Started process (PID=484) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:00.748+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:57:00.749+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:00.749+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:00.755+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:00.765+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:00.765+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:57:00.774+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:00.774+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:57:00.783+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T10:57:11.131+0000] {processor.py:157} INFO - Started process (PID=530) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:11.132+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:57:11.133+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:11.133+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:11.140+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:11.150+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:11.150+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:57:11.159+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:11.158+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:57:11.166+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T10:57:21.580+0000] {processor.py:157} INFO - Started process (PID=580) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:21.580+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:57:21.581+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:21.581+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:21.588+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:21.599+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:21.599+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:57:21.610+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:21.610+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:57:21.619+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.041 seconds
+[2026-03-27T10:57:32.133+0000] {processor.py:157} INFO - Started process (PID=628) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:32.134+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:57:32.136+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:32.136+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:32.141+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:32.152+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:32.152+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:57:32.164+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:32.164+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:57:32.172+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.041 seconds
+[2026-03-27T10:57:42.526+0000] {processor.py:157} INFO - Started process (PID=674) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:42.527+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:57:42.529+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:42.528+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:42.534+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:42.543+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:42.543+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:57:42.552+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:42.552+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:57:42.560+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T10:57:53.014+0000] {processor.py:157} INFO - Started process (PID=722) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:53.015+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:57:53.016+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:53.016+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:53.021+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:57:53.029+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:53.029+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:57:53.038+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:57:53.038+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:57:53.047+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.035 seconds
+[2026-03-27T10:58:03.514+0000] {processor.py:157} INFO - Started process (PID=772) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:03.515+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:58:03.515+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:03.515+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:03.521+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:03.535+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:03.535+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:58:03.544+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:03.544+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:58:03.551+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T10:58:13.961+0000] {processor.py:157} INFO - Started process (PID=820) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:13.961+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:58:13.962+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:13.962+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:13.968+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:13.977+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:13.977+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:58:13.989+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:13.989+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:58:13.996+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T10:58:24.417+0000] {processor.py:157} INFO - Started process (PID=866) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:24.417+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:58:24.419+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:24.419+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:24.425+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:24.436+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:24.436+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:58:24.445+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:24.445+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:58:24.455+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T10:58:34.903+0000] {processor.py:157} INFO - Started process (PID=916) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:34.903+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:58:34.904+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:34.904+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:34.910+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:34.920+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:34.920+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:58:34.929+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:34.929+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:58:34.938+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T10:58:45.307+0000] {processor.py:157} INFO - Started process (PID=962) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:45.307+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:58:45.309+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:45.309+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:45.316+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:45.326+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:45.326+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:58:45.335+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:45.335+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:58:45.343+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T10:58:55.733+0000] {processor.py:157} INFO - Started process (PID=1010) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:55.733+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:58:55.734+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:55.734+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:55.747+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:58:55.759+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:55.758+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:58:55.769+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:58:55.769+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:58:55.780+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.049 seconds
+[2026-03-27T10:59:06.202+0000] {processor.py:157} INFO - Started process (PID=1060) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:06.203+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:59:06.203+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:06.203+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:06.210+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:06.220+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:06.220+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:59:06.229+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:06.229+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:59:06.238+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T10:59:16.646+0000] {processor.py:157} INFO - Started process (PID=1106) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:16.647+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:59:16.648+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:16.648+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:16.656+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:16.666+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:16.666+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:59:16.674+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:16.674+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:59:16.683+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T10:59:27.103+0000] {processor.py:157} INFO - Started process (PID=1156) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:27.103+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:59:27.104+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:27.104+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:27.110+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:27.119+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:27.118+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:59:27.127+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:27.127+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:59:27.138+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T10:59:37.677+0000] {processor.py:157} INFO - Started process (PID=1204) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:37.678+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:59:37.680+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:37.680+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:37.687+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:37.700+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:37.699+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:59:37.711+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:37.711+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:59:37.723+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.048 seconds
+[2026-03-27T10:59:48.094+0000] {processor.py:157} INFO - Started process (PID=1250) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:48.095+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:59:48.096+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:48.096+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:48.103+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:48.116+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:48.116+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:59:48.125+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:48.125+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:59:48.134+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.042 seconds
+[2026-03-27T10:59:58.529+0000] {processor.py:157} INFO - Started process (PID=1300) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:58.530+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T10:59:58.530+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:58.530+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:58.539+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T10:59:58.551+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:58.551+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T10:59:58.560+0000] {logging_mixin.py:151} INFO - [2026-03-27T10:59:58.559+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:30:00+00:00, run_after=2026-03-27T10:45:00+00:00
+[2026-03-27T10:59:58.569+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.042 seconds
+[2026-03-27T11:00:08.942+0000] {processor.py:157} INFO - Started process (PID=1348) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:08.942+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:00:08.943+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:08.943+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:08.948+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:08.961+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:08.960+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:00:08.970+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:08.970+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:00:08.980+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:00:19.359+0000] {processor.py:157} INFO - Started process (PID=1396) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:19.360+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:00:19.360+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:19.360+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:19.367+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:19.377+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:19.377+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:00:19.386+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:19.386+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:00:19.396+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:00:29.787+0000] {processor.py:157} INFO - Started process (PID=1442) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:29.788+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:00:29.789+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:29.789+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:29.799+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:29.811+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:29.811+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:00:29.820+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:29.820+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:00:29.829+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.043 seconds
+[2026-03-27T11:00:40.266+0000] {processor.py:157} INFO - Started process (PID=1490) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:40.266+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:00:40.268+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:40.268+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:40.275+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:40.290+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:40.290+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:00:40.301+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:40.301+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:00:40.312+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.048 seconds
+[2026-03-27T11:00:50.677+0000] {processor.py:157} INFO - Started process (PID=1538) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:50.678+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:00:50.679+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:50.679+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:50.685+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:00:50.696+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:50.695+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:00:50.705+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:00:50.704+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:00:50.713+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:01:01.183+0000] {processor.py:157} INFO - Started process (PID=1586) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:01.184+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:01:01.185+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:01.185+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:01.190+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:01.201+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:01.201+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:01:01.210+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:01.210+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:01:01.219+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:01:11.638+0000] {processor.py:157} INFO - Started process (PID=1636) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:11.639+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:01:11.640+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:11.639+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:11.646+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:11.657+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:11.657+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:01:11.667+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:11.667+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:01:11.675+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:01:22.116+0000] {processor.py:157} INFO - Started process (PID=1684) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:22.116+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:01:22.117+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:22.117+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:22.123+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:22.132+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:22.132+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:01:22.141+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:22.141+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:01:22.150+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T11:01:47.980+0000] {processor.py:157} INFO - Started process (PID=191) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:47.981+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:01:47.983+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:47.982+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:47.989+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:47.995+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:47.995+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:01:48.006+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:48.006+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:01:48.015+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T11:01:58.425+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:58.426+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:01:58.427+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:58.427+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:58.434+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:01:58.440+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:58.440+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:01:58.449+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:01:58.449+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:01:58.459+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.035 seconds
+[2026-03-27T11:02:08.922+0000] {processor.py:157} INFO - Started process (PID=289) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:08.922+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:02:08.923+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:08.923+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:08.929+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:08.935+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:08.934+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:02:08.948+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:08.948+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:02:08.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T11:02:35.008+0000] {processor.py:157} INFO - Started process (PID=191) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:35.009+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:02:35.010+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:35.010+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:35.015+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:35.021+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:35.021+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:02:35.031+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:35.031+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:02:35.037+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.031 seconds
+[2026-03-27T11:02:45.617+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:45.617+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:02:45.618+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:45.618+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:45.626+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:45.632+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:45.632+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:02:45.642+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:45.642+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:02:45.650+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.035 seconds
+[2026-03-27T11:02:56.020+0000] {processor.py:157} INFO - Started process (PID=289) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:56.020+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:02:56.022+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:56.022+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:56.027+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:02:56.036+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:56.035+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:02:56.046+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:02:56.046+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:02:56.055+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:03:06.433+0000] {processor.py:157} INFO - Started process (PID=337) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:06.433+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:03:06.434+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:06.434+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:06.440+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:06.450+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:06.450+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:03:06.459+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:06.459+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:03:06.468+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:03:16.850+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:16.851+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:03:16.851+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:16.851+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:16.858+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:16.868+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:16.868+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:03:16.877+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:16.877+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:03:16.887+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T11:03:27.271+0000] {processor.py:157} INFO - Started process (PID=433) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:27.271+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:03:27.272+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:27.272+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:27.279+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:27.292+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:27.292+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:03:27.301+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:27.301+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:03:27.310+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:03:37.750+0000] {processor.py:157} INFO - Started process (PID=481) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:37.751+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:03:37.752+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:37.751+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:37.757+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:37.769+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:37.769+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:03:37.777+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:37.777+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:03:37.785+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T11:03:48.175+0000] {processor.py:157} INFO - Started process (PID=527) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:48.176+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:03:48.178+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:48.178+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:48.184+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:48.196+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:48.196+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:03:48.209+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:48.209+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:03:48.219+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.046 seconds
+[2026-03-27T11:03:58.649+0000] {processor.py:157} INFO - Started process (PID=577) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:58.649+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:03:58.650+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:58.650+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:58.657+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:03:58.667+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:58.667+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:03:58.678+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:03:58.678+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:03:58.688+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.041 seconds
+[2026-03-27T11:04:09.067+0000] {processor.py:157} INFO - Started process (PID=625) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:09.067+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:04:09.068+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:09.068+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:09.074+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:09.084+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:09.084+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:04:09.094+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:09.094+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:04:09.102+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:04:19.558+0000] {processor.py:157} INFO - Started process (PID=673) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:19.558+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:04:19.559+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:19.559+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:19.565+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:19.576+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:19.575+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:04:19.584+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:19.584+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:04:19.593+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T11:04:30.012+0000] {processor.py:157} INFO - Started process (PID=719) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:30.013+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:04:30.014+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:30.014+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:30.018+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:30.028+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:30.028+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:04:30.037+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:30.037+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:04:30.046+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.035 seconds
+[2026-03-27T11:04:40.489+0000] {processor.py:157} INFO - Started process (PID=769) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:40.489+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:04:40.490+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:40.490+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:40.495+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:40.506+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:40.505+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:04:40.515+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:40.515+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:04:40.525+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:04:50.955+0000] {processor.py:157} INFO - Started process (PID=817) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:50.956+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:04:50.957+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:50.956+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:50.964+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:04:50.975+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:50.975+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:04:50.987+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:04:50.987+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:04:50.998+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.044 seconds
+[2026-03-27T11:05:01.439+0000] {processor.py:157} INFO - Started process (PID=865) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:01.440+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:05:01.440+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:01.440+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:01.448+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:01.458+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:01.458+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:05:01.468+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:01.468+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:05:01.476+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T11:05:11.938+0000] {processor.py:157} INFO - Started process (PID=913) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:11.938+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:05:11.939+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:11.939+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:11.946+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:11.957+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:11.956+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:05:11.967+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:11.966+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:05:11.975+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:05:22.471+0000] {processor.py:157} INFO - Started process (PID=961) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:22.472+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:05:22.474+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:22.474+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:22.480+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:22.492+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:22.492+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:05:22.503+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:22.502+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:05:22.513+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.043 seconds
+[2026-03-27T11:05:32.885+0000] {processor.py:157} INFO - Started process (PID=1009) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:32.886+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:05:32.886+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:32.886+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:32.894+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:32.911+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:32.911+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:05:32.931+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:32.931+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:05:32.940+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.056 seconds
+[2026-03-27T11:05:43.377+0000] {processor.py:157} INFO - Started process (PID=1057) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:43.378+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:05:43.379+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:43.378+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:43.384+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:05:43.394+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:43.394+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:05:43.402+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:05:43.402+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:05:43.411+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.035 seconds
+[2026-03-27T11:06:03.805+0000] {processor.py:157} INFO - Started process (PID=191) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:03.808+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:06:03.809+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:03.809+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:03.816+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:03.822+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:03.822+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:06:03.833+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:03.833+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:06:03.840+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:06:14.432+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:14.433+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:06:14.434+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:14.433+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:14.441+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:14.448+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:14.448+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:06:14.459+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:14.459+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:06:14.469+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:06:24.839+0000] {processor.py:157} INFO - Started process (PID=289) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:24.839+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:06:24.841+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:24.841+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:24.847+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:24.855+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:24.854+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:06:24.866+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:24.866+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:06:24.874+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:06:35.311+0000] {processor.py:157} INFO - Started process (PID=337) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:35.312+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:06:35.313+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:35.313+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:35.322+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:35.337+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:35.336+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:06:35.349+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:35.349+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:06:35.363+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.054 seconds
+[2026-03-27T11:06:45.816+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:45.817+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:06:45.817+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:45.817+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:45.824+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:45.835+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:45.835+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:06:45.844+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:45.844+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:06:45.855+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:06:56.317+0000] {processor.py:157} INFO - Started process (PID=431) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:56.318+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:06:56.319+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:56.319+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:56.325+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:06:56.334+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:56.334+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:06:56.343+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:06:56.343+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:06:56.354+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:07:06.906+0000] {processor.py:157} INFO - Started process (PID=481) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:06.907+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:07:06.909+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:06.909+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:06.916+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:06.931+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:06.930+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:07:06.941+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:06.941+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:07:06.952+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.048 seconds
+[2026-03-27T11:07:17.356+0000] {processor.py:157} INFO - Started process (PID=529) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:17.356+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:07:17.357+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:17.357+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:17.364+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:17.375+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:17.374+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:07:17.385+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:17.385+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:07:17.394+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:07:27.841+0000] {processor.py:157} INFO - Started process (PID=577) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:27.842+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:07:27.842+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:27.842+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:27.849+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:27.860+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:27.859+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:07:27.868+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:27.868+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:07:27.876+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:07:38.276+0000] {processor.py:157} INFO - Started process (PID=623) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:38.277+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:07:38.279+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:38.279+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:38.285+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:07:38.296+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:38.296+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:07:38.306+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:07:38.306+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:07:38.315+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:08:06.692+0000] {processor.py:157} INFO - Started process (PID=191) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:06.692+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:08:06.693+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:06.693+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:06.699+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:06.705+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:06.705+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:08:06.714+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:06.714+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:08:06.721+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.031 seconds
+[2026-03-27T11:08:17.264+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:17.265+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:08:17.266+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:17.266+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:17.273+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:17.280+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:17.280+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:08:17.292+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:17.291+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:08:17.301+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T11:08:27.669+0000] {processor.py:157} INFO - Started process (PID=287) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:27.670+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:08:27.671+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:27.671+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:27.676+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:27.682+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:27.682+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:08:27.692+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:27.692+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:08:27.700+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.032 seconds
+[2026-03-27T11:08:38.060+0000] {processor.py:157} INFO - Started process (PID=337) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:38.060+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:08:38.061+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:38.061+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:38.067+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:38.076+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:38.076+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:08:38.086+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:38.086+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:08:38.095+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.037 seconds
+[2026-03-27T11:08:48.530+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:48.530+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:08:48.531+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:48.531+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:48.538+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:48.549+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:48.549+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:08:48.558+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:48.558+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:08:48.567+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T11:08:59.021+0000] {processor.py:157} INFO - Started process (PID=433) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:59.021+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:08:59.022+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:59.022+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:59.029+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:08:59.038+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:59.038+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:08:59.047+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:08:59.047+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:08:59.055+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.036 seconds
+[2026-03-27T11:09:09.494+0000] {processor.py:157} INFO - Started process (PID=481) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:09.495+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:09:09.496+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:09.496+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:09.501+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:09.512+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:09.512+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:09:09.521+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:09.521+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:09:09.531+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.038 seconds
+[2026-03-27T11:09:19.903+0000] {processor.py:157} INFO - Started process (PID=529) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:19.903+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:09:19.904+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:19.904+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:19.911+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:19.921+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:19.921+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:09:19.931+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:19.931+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:09:19.942+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:09:30.318+0000] {processor.py:157} INFO - Started process (PID=577) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:30.318+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:09:30.319+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:30.319+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:30.326+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:30.336+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:30.336+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:09:30.347+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:30.347+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:09:30.355+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.039 seconds
+[2026-03-27T11:09:40.763+0000] {processor.py:157} INFO - Started process (PID=623) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:40.764+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:09:40.766+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:40.766+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:40.771+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:40.782+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:40.782+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:09:40.793+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:40.793+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:09:40.801+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.040 seconds
+[2026-03-27T11:09:51.219+0000] {processor.py:157} INFO - Started process (PID=673) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:51.220+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:09:51.221+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:51.221+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:51.228+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:09:51.239+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:51.239+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:09:51.251+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:09:51.251+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:09:51.260+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.042 seconds
+[2026-03-27T11:10:01.752+0000] {processor.py:157} INFO - Started process (PID=719) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:01.753+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:10:01.754+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:01.754+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:01.759+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:01.769+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:01.769+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:10:01.779+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:01.779+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:10:01.785+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.035 seconds
+[2026-03-27T11:10:12.188+0000] {processor.py:157} INFO - Started process (PID=767) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:12.189+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:10:12.191+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:12.191+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:12.198+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:12.216+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:12.215+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:10:12.227+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:12.226+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:10:12.236+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.050 seconds
+[2026-03-27T11:10:22.713+0000] {processor.py:157} INFO - Started process (PID=817) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:22.713+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:10:22.714+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:22.714+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:22.721+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:22.732+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:22.732+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:10:22.744+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:22.744+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:10:22.753+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.042 seconds
+[2026-03-27T11:10:33.188+0000] {processor.py:157} INFO - Started process (PID=865) to work on /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:33.189+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/replication/mongo_to_postgres_raw.py for tasks to queue
+[2026-03-27T11:10:33.189+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:33.189+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:33.198+0000] {processor.py:839} INFO - DAG(s) dict_keys(['mongo_to_postgres_raw']) retrieved from /opt/airflow/dags/replication/mongo_to_postgres_raw.py
+[2026-03-27T11:10:33.208+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:33.208+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-27T11:10:33.219+0000] {logging_mixin.py:151} INFO - [2026-03-27T11:10:33.219+0000] {dag.py:3677} INFO - Setting next_dagrun for mongo_to_postgres_raw to 2026-03-27T10:45:00+00:00, run_after=2026-03-27T11:00:00+00:00
+[2026-03-27T11:10:33.232+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/replication/mongo_to_postgres_raw.py took 0.045 seconds

@@ -1,0 +1,54 @@
+[2026-03-27T11:13:35.680+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_3_load_data_to_3nf.load_to_3nf scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-27T11:13:35.684+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_3_load_data_to_3nf.load_to_3nf scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-27T11:13:35.685+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-27T11:13:35.690+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): load_to_3nf> on 2024-01-01 00:00:00+00:00
+[2026-03-27T11:13:35.693+0000] {standard_task_runner.py:57} INFO - Started process 752 to run task
+[2026-03-27T11:13:35.694+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_3_load_data_to_3nf', 'load_to_3nf', 'scheduled__2024-01-01T00:00:00+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/PDE_3_load_data_to_3nf.py', '--cfg-path', '/tmp/tmp91g_z7hi']
+[2026-03-27T11:13:35.695+0000] {standard_task_runner.py:85} INFO - Job 12: Subtask load_to_3nf
+[2026-03-27T11:13:35.714+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_3_load_data_to_3nf.load_to_3nf scheduled__2024-01-01T00:00:00+00:00 [running]> on host b8b4e475d066
+[2026-03-27T11:13:35.742+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_3_load_data_to_3nf' AIRFLOW_CTX_TASK_ID='load_to_3nf' AIRFLOW_CTX_EXECUTION_DATE='2024-01-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-01-01T00:00:00+00:00'
+[2026-03-27T11:13:35.746+0000] {base.py:73} INFO - Using connection ID 'postgres_default' for task execution.
+[2026-03-27T11:13:35.748+0000] {logging_mixin.py:151} INFO - ❌ Ошибка при загрузке: schema "hse_python_etl_project" does not exist
+[2026-03-27T11:13:35.748+0000] {taskinstance.py:1943} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/PDE_3_load_data_to_3nf.py", line 19, in load_to_3nf
+    cursor.execute("TRUNCATE TABLE hse_python_etl_project.item_replacements CASCADE;")
+psycopg2.errors.InvalidSchemaName: schema "hse_python_etl_project" does not exist
+
+[2026-03-27T11:13:35.752+0000] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=PDE_3_load_data_to_3nf, task_id=load_to_3nf, execution_date=20240101T000000, start_date=20260327T111335, end_date=20260327T111335
+[2026-03-27T11:13:35.756+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 12 for task load_to_3nf (schema "hse_python_etl_project" does not exist
+; 752)
+[2026-03-27T11:13:35.791+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2026-03-27T11:13:35.798+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-03-28T11:39:04.525+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_3_load_data_to_3nf.load_to_3nf scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-28T11:39:04.528+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_3_load_data_to_3nf.load_to_3nf scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-28T11:39:04.528+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-28T11:39:04.533+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): load_to_3nf> on 2024-01-01 00:00:00+00:00
+[2026-03-28T11:39:04.536+0000] {standard_task_runner.py:57} INFO - Started process 429 to run task
+[2026-03-28T11:39:04.538+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_3_load_data_to_3nf', 'load_to_3nf', 'scheduled__2024-01-01T00:00:00+00:00', '--job-id', '7', '--raw', '--subdir', 'DAGS_FOLDER/PDE_3_load_data_to_3nf.py', '--cfg-path', '/tmp/tmpnp0ammtw']
+[2026-03-28T11:39:04.540+0000] {standard_task_runner.py:85} INFO - Job 7: Subtask load_to_3nf
+[2026-03-28T11:39:04.559+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_3_load_data_to_3nf.load_to_3nf scheduled__2024-01-01T00:00:00+00:00 [running]> on host 54b7048a2b02
+[2026-03-28T11:39:04.588+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_3_load_data_to_3nf' AIRFLOW_CTX_TASK_ID='load_to_3nf' AIRFLOW_CTX_EXECUTION_DATE='2024-01-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-01-01T00:00:00+00:00'
+[2026-03-28T11:39:04.594+0000] {taskinstance.py:1943} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/PDE_3_load_data_to_3nf.py", line 14, in load_to_3nf
+    conn = pg_hook.get_conn()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/postgres/hooks/postgres.py", line 124, in get_conn
+    conn = deepcopy(self.connection or self.get_connection(conn_id))
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/hooks/base.py", line 72, in get_connection
+    conn = Connection.get_connection_from_secrets(conn_id)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/connection.py", line 477, in get_connection_from_secrets
+    raise AirflowNotFoundException(f"The conn_id `{conn_id}` isn't defined")
+airflow.exceptions.AirflowNotFoundException: The conn_id `postgres_default` isn't defined
+[2026-03-28T11:39:04.596+0000] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=PDE_3_load_data_to_3nf, task_id=load_to_3nf, execution_date=20240101T000000, start_date=20260328T113904, end_date=20260328T113904
+[2026-03-28T11:39:04.599+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 7 for task load_to_3nf (The conn_id `postgres_default` isn't defined; 429)
+[2026-03-28T11:39:04.634+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2026-03-28T11:39:04.641+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check
