@@ -1,0 +1,896 @@
+[2026-03-29T00:04:36.333+0000] {processor.py:157} INFO - Started process (PID=49479) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:36.334+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:04:36.336+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:36.336+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:36.342+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:36.354+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:36.354+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:04:36.365+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:36.365+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:04:36.375+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.043 seconds
+[2026-03-29T00:04:46.672+0000] {processor.py:157} INFO - Started process (PID=49515) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:46.673+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:04:46.674+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:46.674+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:46.682+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:46.696+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:46.696+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:04:46.707+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:46.707+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:04:46.715+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T00:04:57.163+0000] {processor.py:157} INFO - Started process (PID=49551) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:57.164+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:04:57.165+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:57.165+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:57.175+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:04:57.190+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:57.190+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:04:57.201+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:57.201+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:04:57.211+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.051 seconds
+[2026-03-29T00:20:07.368+0000] {processor.py:157} INFO - Started process (PID=49587) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:07.370+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:20:07.371+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:07.371+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:07.384+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:07.432+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:07.432+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:20:07.451+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:07.451+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:20:07.473+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.110 seconds
+[2026-03-29T00:20:17.836+0000] {processor.py:157} INFO - Started process (PID=49623) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:17.837+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:20:17.839+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:17.838+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:17.847+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:17.860+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:17.860+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:20:17.871+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:17.871+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:20:17.882+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T00:20:28.157+0000] {processor.py:157} INFO - Started process (PID=49659) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:28.158+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:20:28.159+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:28.159+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:28.171+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:20:28.187+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:28.187+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:20:28.197+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:28.197+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:20:28.206+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.052 seconds
+[2026-03-29T00:35:38.337+0000] {processor.py:157} INFO - Started process (PID=49696) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:38.337+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:35:38.338+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:38.338+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:38.344+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:38.356+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:38.356+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:35:38.365+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:38.365+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:35:38.374+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.039 seconds
+[2026-03-29T00:35:48.684+0000] {processor.py:157} INFO - Started process (PID=49732) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:48.685+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:35:48.687+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:48.686+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:48.693+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:48.709+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:48.709+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:35:48.719+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:48.719+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:35:48.731+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T00:35:59.031+0000] {processor.py:157} INFO - Started process (PID=49768) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:59.032+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:35:59.032+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:59.032+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:59.039+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:35:59.053+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:59.053+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:35:59.066+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:59.066+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:35:59.077+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T00:51:09.163+0000] {processor.py:157} INFO - Started process (PID=49803) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:09.164+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:51:09.164+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:09.164+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:09.174+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:09.187+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:09.187+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:51:09.198+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:09.198+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:51:09.211+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.050 seconds
+[2026-03-29T00:51:19.605+0000] {processor.py:157} INFO - Started process (PID=49840) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:19.606+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:51:19.607+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:19.607+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:19.619+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:19.634+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:19.634+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:51:19.648+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:19.648+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:51:19.657+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.056 seconds
+[2026-03-29T00:51:29.987+0000] {processor.py:157} INFO - Started process (PID=49876) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:29.988+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T00:51:29.989+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:29.989+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:29.997+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T00:51:30.012+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:30.012+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:51:30.023+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:30.022+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T00:51:30.031+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T01:06:40.133+0000] {processor.py:157} INFO - Started process (PID=49912) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:06:40.134+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:06:40.135+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:40.135+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:06:40.145+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:06:40.160+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:40.160+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:06:40.174+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:40.173+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:06:40.183+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.051 seconds
+[2026-03-29T01:06:50.522+0000] {processor.py:157} INFO - Started process (PID=49948) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:06:50.526+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:06:50.527+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:50.527+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:06:50.534+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:06:50.545+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:50.545+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:06:50.555+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:50.555+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:06:50.566+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T01:07:00.819+0000] {processor.py:157} INFO - Started process (PID=49984) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:07:00.820+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:07:00.820+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:07:00.820+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:07:00.828+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:07:00.842+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:07:00.842+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:07:00.852+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:07:00.852+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:07:00.861+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T01:37:11.852+0000] {processor.py:157} INFO - Started process (PID=50020) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:11.854+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:37:11.855+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:11.855+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:11.871+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:11.903+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:11.903+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:37:11.923+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:11.923+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:37:11.940+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.091 seconds
+[2026-03-29T01:37:22.352+0000] {processor.py:157} INFO - Started process (PID=50056) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:22.353+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:37:22.355+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:22.355+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:22.364+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:22.376+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:22.376+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:37:22.386+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:22.386+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:37:22.397+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T01:37:32.629+0000] {processor.py:157} INFO - Started process (PID=50092) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:32.630+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:37:32.631+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:32.631+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:32.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:37:32.655+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:32.655+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:37:32.665+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:32.665+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:37:32.674+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.048 seconds
+[2026-03-29T01:52:42.537+0000] {processor.py:157} INFO - Started process (PID=50129) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:52:42.538+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:52:42.540+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:42.540+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:52:42.551+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:52:42.568+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:42.568+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:52:42.587+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:42.586+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:52:42.602+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.067 seconds
+[2026-03-29T01:52:52.997+0000] {processor.py:157} INFO - Started process (PID=50166) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:52:52.998+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:52:52.999+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:52.999+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:52:53.009+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:52:53.025+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:53.025+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:52:53.037+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:53.037+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:52:53.046+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.052 seconds
+[2026-03-29T01:53:03.316+0000] {processor.py:157} INFO - Started process (PID=50202) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:53:03.317+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T01:53:03.319+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:53:03.318+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:53:03.328+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T01:53:03.348+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:53:03.348+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:53:03.363+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:53:03.363+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T01:53:03.376+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.064 seconds
+[2026-03-29T02:08:12.674+0000] {processor.py:157} INFO - Started process (PID=50238) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:12.677+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:08:12.678+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:12.678+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:12.684+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:12.696+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:12.696+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:08:12.706+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:12.706+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:08:12.715+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.043 seconds
+[2026-03-29T02:08:23.031+0000] {processor.py:157} INFO - Started process (PID=50274) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:23.031+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:08:23.032+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:23.032+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:23.043+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:23.058+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:23.058+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:08:23.070+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:23.070+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:08:23.080+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.052 seconds
+[2026-03-29T02:08:33.353+0000] {processor.py:157} INFO - Started process (PID=50310) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:33.354+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:08:33.355+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:33.355+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:33.364+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:08:33.375+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:33.375+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:08:33.386+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:33.386+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:08:33.395+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T02:23:43.478+0000] {processor.py:157} INFO - Started process (PID=50346) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:23:43.479+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:23:43.479+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:43.479+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:23:43.489+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:23:43.500+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:43.500+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:23:43.510+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:43.510+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:23:43.521+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T02:23:53.856+0000] {processor.py:157} INFO - Started process (PID=50382) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:23:53.858+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:23:53.859+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:53.859+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:23:53.869+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:23:53.884+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:53.883+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:23:53.896+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:53.896+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:23:53.906+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.053 seconds
+[2026-03-29T02:24:04.242+0000] {processor.py:157} INFO - Started process (PID=50418) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:24:04.244+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:24:04.245+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:24:04.245+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:24:04.258+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:24:04.271+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:24:04.271+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:24:04.283+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:24:04.283+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:24:04.294+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.055 seconds
+[2026-03-29T02:39:14.369+0000] {processor.py:157} INFO - Started process (PID=50456) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:14.373+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:39:14.374+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:14.374+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:14.380+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:14.389+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:14.389+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:39:14.399+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:14.399+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:39:14.409+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.042 seconds
+[2026-03-29T02:39:24.743+0000] {processor.py:157} INFO - Started process (PID=50492) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:24.745+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:39:24.747+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:24.747+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:24.758+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:24.772+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:24.772+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:39:24.786+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:24.786+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:39:24.798+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.058 seconds
+[2026-03-29T02:39:35.131+0000] {processor.py:157} INFO - Started process (PID=50528) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:35.132+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:39:35.133+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:35.132+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:35.141+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:39:35.156+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:35.155+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:39:35.167+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:35.167+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:39:35.176+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T02:54:45.212+0000] {processor.py:157} INFO - Started process (PID=50564) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:54:45.213+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:54:45.214+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:45.214+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:54:45.220+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:54:45.234+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:45.234+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:54:45.243+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:45.243+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:54:45.256+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T02:54:55.689+0000] {processor.py:157} INFO - Started process (PID=50600) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:54:55.692+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:54:55.693+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:55.693+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:54:55.702+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:54:55.715+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:55.715+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:54:55.727+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:55.727+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:54:55.737+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.051 seconds
+[2026-03-29T02:55:06.071+0000] {processor.py:157} INFO - Started process (PID=50636) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:55:06.072+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T02:55:06.073+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:55:06.072+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:55:06.081+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T02:55:06.094+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:55:06.094+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:55:06.104+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:55:06.104+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T02:55:06.113+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T03:23:03.917+0000] {processor.py:157} INFO - Started process (PID=50672) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:03.918+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:23:03.919+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:03.919+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:03.927+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:03.937+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:03.937+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:23:03.947+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:03.947+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:23:03.955+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.039 seconds
+[2026-03-29T03:23:14.301+0000] {processor.py:157} INFO - Started process (PID=50708) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:14.303+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:23:14.304+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:14.304+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:14.320+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:14.343+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:14.343+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:23:14.360+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:14.360+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:23:14.375+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.078 seconds
+[2026-03-29T03:23:24.662+0000] {processor.py:157} INFO - Started process (PID=50744) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:24.663+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:23:24.665+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:24.664+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:24.677+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:23:24.689+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:24.689+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:23:24.700+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:24.700+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:23:24.709+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.050 seconds
+[2026-03-29T03:34:20.374+0000] {processor.py:157} INFO - Started process (PID=50779) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:20.378+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:34:20.383+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:20.382+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:20.394+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:20.414+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:20.414+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:34:20.431+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:20.431+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:34:20.451+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.080 seconds
+[2026-03-29T03:34:30.848+0000] {processor.py:157} INFO - Started process (PID=50816) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:30.852+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:34:30.853+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:30.853+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:30.861+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:30.874+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:30.874+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:34:30.888+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:30.888+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:34:30.896+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.051 seconds
+[2026-03-29T03:34:41.208+0000] {processor.py:157} INFO - Started process (PID=50852) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:41.211+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:34:41.213+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:41.212+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:41.240+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:34:41.288+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:41.288+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:34:41.388+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:41.388+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:34:41.404+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.203 seconds
+[2026-03-29T03:49:50.774+0000] {processor.py:157} INFO - Started process (PID=50888) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:49:50.777+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:49:50.778+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:49:50.778+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:49:50.783+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:49:50.798+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:49:50.798+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:49:50.808+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:49:50.808+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:49:50.817+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T03:50:01.109+0000] {processor.py:157} INFO - Started process (PID=50924) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:50:01.110+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:50:01.112+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:01.112+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:50:01.123+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:50:01.137+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:01.137+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:50:01.147+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:01.147+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:50:01.159+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.052 seconds
+[2026-03-29T03:50:11.661+0000] {processor.py:157} INFO - Started process (PID=50960) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:50:11.662+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T03:50:11.664+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:11.664+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:50:11.674+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T03:50:11.690+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:11.690+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:50:11.703+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:11.703+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T03:50:11.714+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.056 seconds
+[2026-03-29T04:05:21.820+0000] {processor.py:157} INFO - Started process (PID=50998) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:21.822+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:05:21.823+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:21.823+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:21.832+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:21.851+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:21.851+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:05:21.864+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:21.864+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:05:21.880+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.063 seconds
+[2026-03-29T04:05:32.279+0000] {processor.py:157} INFO - Started process (PID=51034) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:32.280+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:05:32.282+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:32.282+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:32.289+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:32.303+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:32.303+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:05:32.314+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:32.314+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:05:32.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T04:05:42.622+0000] {processor.py:157} INFO - Started process (PID=51070) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:42.623+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:05:42.626+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:42.626+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:42.631+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:05:42.644+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:42.644+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:05:42.655+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:42.654+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:05:42.663+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T04:20:52.929+0000] {processor.py:157} INFO - Started process (PID=51106) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:20:52.935+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:20:52.936+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:20:52.935+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:20:52.947+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:20:52.965+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:20:52.965+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:20:52.983+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:20:52.983+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:20:52.995+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.069 seconds
+[2026-03-29T04:21:03.398+0000] {processor.py:157} INFO - Started process (PID=51142) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:21:03.400+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:21:03.401+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:03.401+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:21:03.410+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:21:03.425+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:03.425+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:21:03.435+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:03.435+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:21:03.446+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.050 seconds
+[2026-03-29T04:21:13.759+0000] {processor.py:157} INFO - Started process (PID=51178) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:21:13.760+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:21:13.761+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:13.761+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:21:13.772+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:21:13.783+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:13.783+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:21:13.796+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:13.796+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:21:13.805+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.048 seconds
+[2026-03-29T04:39:26.205+0000] {processor.py:157} INFO - Started process (PID=51214) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:26.205+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:39:26.207+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:26.207+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:26.215+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:26.228+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:26.228+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:39:26.242+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:26.242+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:39:26.256+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.057 seconds
+[2026-03-29T04:39:36.629+0000] {processor.py:157} INFO - Started process (PID=51250) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:36.630+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:39:36.631+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:36.630+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:36.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:36.653+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:36.653+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:39:36.663+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:36.663+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:39:36.674+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.048 seconds
+[2026-03-29T04:39:46.993+0000] {processor.py:157} INFO - Started process (PID=51286) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:46.994+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:39:46.996+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:46.995+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:47.004+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:39:47.021+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:47.021+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:39:47.033+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:47.033+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:39:47.043+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.053 seconds
+[2026-03-29T04:54:56.244+0000] {processor.py:157} INFO - Started process (PID=51322) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:54:56.245+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:54:56.246+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:54:56.246+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:54:56.254+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:54:56.268+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:54:56.268+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:54:56.280+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:54:56.279+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:54:56.290+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.048 seconds
+[2026-03-29T04:55:06.623+0000] {processor.py:157} INFO - Started process (PID=51358) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:55:06.624+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:55:06.625+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:06.625+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:55:06.635+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:55:06.654+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:06.653+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:55:06.667+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:06.666+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:55:06.677+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.058 seconds
+[2026-03-29T04:55:16.990+0000] {processor.py:157} INFO - Started process (PID=51394) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:55:16.990+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T04:55:16.992+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:16.992+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:55:16.999+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T04:55:17.015+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:17.015+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:55:17.025+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:17.025+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T04:55:17.035+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.048 seconds
+[2026-03-29T05:10:26.435+0000] {processor.py:157} INFO - Started process (PID=51431) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:26.438+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:10:26.439+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:26.439+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:26.445+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:26.457+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:26.457+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:10:26.467+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:26.467+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:10:26.477+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T05:10:36.781+0000] {processor.py:157} INFO - Started process (PID=51468) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:36.782+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:10:36.784+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:36.784+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:36.795+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:36.813+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:36.812+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:10:36.823+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:36.823+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:10:36.833+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.054 seconds
+[2026-03-29T05:10:47.143+0000] {processor.py:157} INFO - Started process (PID=51504) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:47.145+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:10:47.146+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:47.146+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:47.154+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:10:47.168+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:47.168+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:10:47.179+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:47.179+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:10:47.188+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T05:40:31.250+0000] {processor.py:157} INFO - Started process (PID=51540) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:31.251+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:40:31.253+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:31.253+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:31.261+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:31.280+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:31.280+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:40:31.307+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:31.306+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:40:31.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.078 seconds
+[2026-03-29T05:40:41.746+0000] {processor.py:157} INFO - Started process (PID=51576) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:41.747+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:40:41.748+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:41.748+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:41.755+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:41.769+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:41.769+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:40:41.780+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:41.780+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:40:41.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T05:40:52.138+0000] {processor.py:157} INFO - Started process (PID=51612) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:52.139+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:40:52.141+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:52.141+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:52.150+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:40:52.164+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:52.164+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:40:52.178+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:52.178+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:40:52.186+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.052 seconds
+[2026-03-29T05:56:01.509+0000] {processor.py:157} INFO - Started process (PID=51648) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:01.510+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:56:01.510+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:01.510+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:01.517+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:01.529+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:01.529+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:56:01.537+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:01.537+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:56:01.546+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.039 seconds
+[2026-03-29T05:56:11.842+0000] {processor.py:157} INFO - Started process (PID=51684) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:11.843+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:56:11.844+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:11.844+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:11.853+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:11.864+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:11.864+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:56:11.875+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:11.875+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:56:11.885+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T05:56:22.249+0000] {processor.py:157} INFO - Started process (PID=51720) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:22.250+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T05:56:22.252+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:22.252+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:22.261+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T05:56:22.275+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:22.275+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:56:22.287+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:22.287+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T05:56:22.298+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.052 seconds
+[2026-03-29T06:11:32.211+0000] {processor.py:157} INFO - Started process (PID=51756) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:32.211+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:11:32.212+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:32.212+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:32.220+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:32.232+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:32.232+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:11:32.242+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:32.242+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:11:32.249+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.041 seconds
+[2026-03-29T06:11:42.572+0000] {processor.py:157} INFO - Started process (PID=51792) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:42.573+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:11:42.574+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:42.574+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:42.581+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:42.593+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:42.593+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:11:42.606+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:42.606+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:11:42.616+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T06:11:53.059+0000] {processor.py:157} INFO - Started process (PID=51828) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:53.060+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:11:53.061+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:53.061+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:53.070+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:11:53.082+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:53.082+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:11:53.093+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:53.093+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:11:53.103+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T06:26:17.566+0000] {processor.py:157} INFO - Started process (PID=51865) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:17.566+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:26:17.567+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:17.567+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:17.575+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:17.593+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:17.593+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:26:17.604+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:17.604+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:26:17.620+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.056 seconds
+[2026-03-29T06:26:27.970+0000] {processor.py:157} INFO - Started process (PID=51902) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:27.971+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:26:27.973+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:27.973+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:27.981+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:27.993+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:27.993+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:26:28.005+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:28.004+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:26:28.015+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T06:26:38.268+0000] {processor.py:157} INFO - Started process (PID=51938) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:38.268+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:26:38.269+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:38.269+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:38.278+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:26:38.293+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:38.293+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:26:38.304+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:38.304+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:26:38.313+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T06:41:48.322+0000] {processor.py:157} INFO - Started process (PID=51973) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:41:48.323+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:41:48.323+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:48.323+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:41:48.334+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:41:48.353+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:48.353+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:41:48.371+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:48.371+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:41:48.388+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.068 seconds
+[2026-03-29T06:41:58.771+0000] {processor.py:157} INFO - Started process (PID=52010) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:41:58.773+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:41:58.774+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:58.774+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:41:58.781+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:41:58.795+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:58.795+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:41:58.807+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:58.807+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:41:58.818+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.050 seconds
+[2026-03-29T06:42:09.147+0000] {processor.py:157} INFO - Started process (PID=52046) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:42:09.148+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:42:09.150+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:42:09.149+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:42:09.157+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:42:09.172+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:42:09.172+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:42:09.182+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:42:09.182+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:42:09.189+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T06:57:19.260+0000] {processor.py:157} INFO - Started process (PID=52081) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:19.261+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:57:19.263+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:19.263+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:19.274+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:19.289+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:19.289+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:57:19.307+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:19.307+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:57:19.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.067 seconds
+[2026-03-29T06:57:29.726+0000] {processor.py:157} INFO - Started process (PID=52118) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:29.728+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:57:29.732+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:29.731+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:29.739+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:29.752+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:29.752+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:57:29.763+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:29.763+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:57:29.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T06:57:40.063+0000] {processor.py:157} INFO - Started process (PID=52154) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:40.064+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T06:57:40.066+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:40.066+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:40.073+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T06:57:40.087+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:40.087+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:57:40.097+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:40.097+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T06:57:40.106+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T07:27:03.791+0000] {processor.py:157} INFO - Started process (PID=52190) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:03.793+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:27:03.793+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:03.793+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:03.801+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:03.828+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:03.828+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:27:03.851+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:03.850+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:27:03.880+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.092 seconds
+[2026-03-29T07:27:14.361+0000] {processor.py:157} INFO - Started process (PID=52226) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:14.363+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:27:14.364+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:14.364+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:14.372+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:14.387+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:14.387+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:27:14.397+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:14.397+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:27:14.404+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T07:27:24.678+0000] {processor.py:157} INFO - Started process (PID=52262) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:24.679+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:27:24.680+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:24.680+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:24.687+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:27:24.700+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:24.700+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:27:24.709+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:24.709+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:27:24.719+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T07:42:34.872+0000] {processor.py:157} INFO - Started process (PID=52298) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:34.873+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:42:34.874+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:34.874+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:34.883+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:34.901+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:34.901+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:42:34.918+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:34.918+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:42:34.937+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.068 seconds
+[2026-03-29T07:42:45.325+0000] {processor.py:157} INFO - Started process (PID=52334) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:45.326+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:42:45.327+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:45.327+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:45.336+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:45.348+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:45.348+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:42:45.358+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:45.358+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:42:45.370+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T07:42:55.665+0000] {processor.py:157} INFO - Started process (PID=52370) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:55.667+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:42:55.668+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:55.668+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:55.676+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:42:55.688+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:55.688+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:42:55.699+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:55.699+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:42:55.708+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T07:56:19.947+0000] {processor.py:157} INFO - Started process (PID=52407) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:19.950+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:56:19.951+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:19.951+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:19.970+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:19.994+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:19.994+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:56:20.012+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:20.011+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:56:20.025+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.087 seconds
+[2026-03-29T07:56:30.427+0000] {processor.py:157} INFO - Started process (PID=52443) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:30.428+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:56:30.429+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:30.429+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:30.439+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:30.451+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:30.451+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:56:30.462+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:30.462+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:56:30.471+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T07:56:40.699+0000] {processor.py:157} INFO - Started process (PID=52479) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:40.701+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T07:56:40.701+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:40.701+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:40.712+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T07:56:40.725+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:40.725+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:56:40.736+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:40.736+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T07:56:40.746+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.050 seconds
+[2026-03-29T08:06:23.450+0000] {processor.py:157} INFO - Started process (PID=190) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:23.451+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:06:23.453+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:23.453+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:23.458+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:23.463+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:23.463+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:23.474+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:23.474+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:06:23.482+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.033 seconds
+[2026-03-29T08:06:33.707+0000] {processor.py:157} INFO - Started process (PID=220) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:33.708+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:06:33.708+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:33.708+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:33.714+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:33.719+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:33.719+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:33.734+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:33.734+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:06:33.745+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.040 seconds
+[2026-03-29T08:06:43.980+0000] {processor.py:157} INFO - Started process (PID=256) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:43.981+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:06:43.981+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:43.981+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:43.989+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:43.996+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:43.996+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:44.005+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:44.005+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:06:44.016+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.037 seconds
+[2026-03-29T08:06:54.267+0000] {processor.py:157} INFO - Started process (PID=292) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:54.268+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:06:54.268+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:54.268+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:54.274+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:06:54.293+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:54.293+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:54.304+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:54.304+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:06:54.315+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.049 seconds
+[2026-03-29T08:07:04.539+0000] {processor.py:157} INFO - Started process (PID=328) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:04.540+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:07:04.540+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:04.540+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:04.546+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:04.558+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:04.558+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:04.572+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:04.572+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:07:04.582+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T08:07:14.821+0000] {processor.py:157} INFO - Started process (PID=364) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:14.821+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:07:14.822+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:14.822+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:14.828+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:14.841+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:14.841+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:14.853+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:14.853+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:07:14.863+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T08:07:25.119+0000] {processor.py:157} INFO - Started process (PID=400) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:25.119+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:07:25.120+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:25.120+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:25.126+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:25.137+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:25.137+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:25.151+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:25.150+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:07:25.164+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T08:07:35.404+0000] {processor.py:157} INFO - Started process (PID=436) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:35.406+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:07:35.406+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:35.406+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:35.412+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:35.429+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:35.429+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:35.437+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:35.437+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:07:35.447+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.045 seconds
+[2026-03-29T08:07:45.683+0000] {processor.py:157} INFO - Started process (PID=472) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:45.684+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:07:45.684+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:45.684+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:45.689+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:45.704+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:45.704+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:45.714+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:45.714+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:07:45.723+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.041 seconds
+[2026-03-29T08:07:55.976+0000] {processor.py:157} INFO - Started process (PID=508) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:55.978+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:07:55.979+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:55.979+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:55.986+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:07:55.999+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:55.999+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:56.008+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:56.008+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:07:56.020+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.046 seconds
+[2026-03-29T08:08:06.245+0000] {processor.py:157} INFO - Started process (PID=544) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:06.245+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:08:06.246+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:06.245+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:06.250+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:06.265+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:06.265+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:06.275+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:06.275+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:08:06.280+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.037 seconds
+[2026-03-29T08:08:16.531+0000] {processor.py:157} INFO - Started process (PID=580) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:16.532+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:08:16.533+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:16.533+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:16.537+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:16.552+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:16.551+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:16.563+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:16.563+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:08:16.573+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.043 seconds
+[2026-03-29T08:08:26.928+0000] {processor.py:157} INFO - Started process (PID=618) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:26.929+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:08:26.930+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:26.930+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:26.935+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:26.948+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:26.948+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:26.956+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:26.956+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:08:27.021+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.094 seconds
+[2026-03-29T08:08:37.418+0000] {processor.py:157} INFO - Started process (PID=652) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:37.419+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:08:37.419+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:37.419+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:37.425+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:37.439+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:37.439+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:37.518+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:37.518+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:08:37.528+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.112 seconds
+[2026-03-29T08:08:47.957+0000] {processor.py:157} INFO - Started process (PID=690) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:47.957+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:08:47.957+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:47.957+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:47.961+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:47.974+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:47.974+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:48.041+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:48.041+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:08:48.050+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.095 seconds
+[2026-03-29T08:08:58.367+0000] {processor.py:157} INFO - Started process (PID=726) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:58.369+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:08:58.369+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:58.369+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:58.374+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:08:58.440+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:58.440+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:58.447+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:58.447+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:08:58.457+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.091 seconds
+[2026-03-29T08:09:08.815+0000] {processor.py:157} INFO - Started process (PID=760) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:08.816+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:09:08.817+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:08.817+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:08.881+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:08.891+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:08.891+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:08.899+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:08.899+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:09:08.909+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.095 seconds
+[2026-03-29T08:09:19.215+0000] {processor.py:157} INFO - Started process (PID=798) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:19.216+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:09:19.216+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:19.216+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:19.222+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:19.233+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:19.232+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:19.240+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:19.240+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:09:19.249+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.035 seconds
+[2026-03-29T08:09:29.501+0000] {processor.py:157} INFO - Started process (PID=834) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:29.501+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:09:29.502+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:29.502+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:29.508+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:29.519+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:29.519+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:29.531+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:29.531+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:09:29.540+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.041 seconds
+[2026-03-29T08:09:39.762+0000] {processor.py:157} INFO - Started process (PID=870) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:39.762+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:09:39.762+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:39.762+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:39.767+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:39.779+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:39.778+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:39.788+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:39.788+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:09:39.796+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.036 seconds
+[2026-03-29T08:09:50.049+0000] {processor.py:157} INFO - Started process (PID=904) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:50.050+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:09:50.050+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:50.050+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:50.060+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:09:50.077+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:50.077+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:50.092+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:50.092+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:09:50.104+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.059 seconds
+[2026-03-29T08:10:00.366+0000] {processor.py:157} INFO - Started process (PID=942) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:00.366+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:10:00.366+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:00.366+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:00.371+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:00.383+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:00.382+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:00.390+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:00.390+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:10:00.397+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.032 seconds
+[2026-03-29T08:10:10.638+0000] {processor.py:157} INFO - Started process (PID=978) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:10.639+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:10:10.640+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:10.640+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:10.646+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:10.662+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:10.662+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:10.672+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:10.672+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:10:10.683+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.047 seconds
+[2026-03-29T08:10:20.924+0000] {processor.py:157} INFO - Started process (PID=1014) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:20.925+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:10:20.925+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:20.925+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:20.931+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:20.943+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:20.943+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:20.957+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:20.957+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:10:20.964+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.042 seconds
+[2026-03-29T08:10:31.168+0000] {processor.py:157} INFO - Started process (PID=1050) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:31.169+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:10:31.169+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:31.169+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:31.174+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:31.185+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:31.185+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:31.193+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:31.193+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:10:31.202+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.035 seconds
+[2026-03-29T08:10:41.425+0000] {processor.py:157} INFO - Started process (PID=1086) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:41.425+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:10:41.426+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:41.426+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:41.432+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:41.441+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:41.441+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:41.450+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:41.450+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:10:41.458+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.035 seconds
+[2026-03-29T08:10:51.716+0000] {processor.py:157} INFO - Started process (PID=1122) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:51.716+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:10:51.717+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:51.716+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:51.721+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:10:51.732+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:51.732+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:51.741+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:51.741+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:10:51.751+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.037 seconds
+[2026-03-29T08:11:01.949+0000] {processor.py:157} INFO - Started process (PID=1156) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:01.949+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:11:01.950+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:01.950+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:01.955+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:01.966+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:01.966+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:01.975+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:01.975+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:11:01.984+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.037 seconds
+[2026-03-29T08:11:12.216+0000] {processor.py:157} INFO - Started process (PID=1192) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:12.218+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:11:12.218+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:12.218+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:12.222+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:12.232+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:12.232+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:12.241+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:12.240+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:11:12.251+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.037 seconds
+[2026-03-29T08:11:22.492+0000] {processor.py:157} INFO - Started process (PID=1230) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:22.492+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:11:22.493+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:22.493+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:22.497+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:22.507+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:22.507+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:22.515+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:22.515+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:11:22.525+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.035 seconds
+[2026-03-29T08:11:29.835+0000] {processor.py:157} INFO - Started process (PID=1256) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:29.836+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:11:29.836+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:29.836+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:29.848+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:29.902+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:29.902+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:29.911+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:29.911+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:11:29.921+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.089 seconds
+[2026-03-29T08:11:40.216+0000] {processor.py:157} INFO - Started process (PID=1308) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:40.217+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:11:40.218+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:40.218+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:40.226+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:40.235+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:40.234+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:40.247+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:40.247+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:11:40.256+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.043 seconds
+[2026-03-29T08:11:50.478+0000] {processor.py:157} INFO - Started process (PID=1347) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:50.478+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:11:50.479+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:50.479+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:50.484+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:11:50.490+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:50.490+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:50.500+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:50.500+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:11:50.506+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.031 seconds
+[2026-03-29T08:12:00.767+0000] {processor.py:157} INFO - Started process (PID=1386) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:00.767+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:12:00.768+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:00.767+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:00.772+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:00.780+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:00.780+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:00.788+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:00.788+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:12:00.795+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.030 seconds
+[2026-03-29T08:12:10.923+0000] {processor.py:157} INFO - Started process (PID=1433) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:10.924+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:12:10.924+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:10.924+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:10.929+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:10.939+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:10.939+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:10.948+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:10.948+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:12:10.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.034 seconds
+[2026-03-29T08:12:21.158+0000] {processor.py:157} INFO - Started process (PID=1469) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:21.158+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:12:21.159+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:21.159+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:21.163+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:21.172+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:21.172+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:21.181+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:21.181+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:12:21.190+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.033 seconds
+[2026-03-29T08:12:31.304+0000] {processor.py:157} INFO - Started process (PID=1505) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:31.304+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:12:31.305+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:31.305+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:31.309+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:31.321+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:31.321+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:31.331+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:31.331+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:12:31.341+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.039 seconds
+[2026-03-29T08:12:41.610+0000] {processor.py:157} INFO - Started process (PID=1541) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:41.610+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:12:41.611+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:41.611+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:41.619+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:41.632+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:41.632+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:41.643+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:41.643+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:12:41.650+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T08:12:51.851+0000] {processor.py:157} INFO - Started process (PID=1581) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:51.853+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:12:51.854+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:51.853+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:51.860+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:12:51.871+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:51.871+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:51.881+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:51.881+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:12:51.888+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.039 seconds
+[2026-03-29T08:13:02.110+0000] {processor.py:157} INFO - Started process (PID=1621) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:02.111+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:13:02.112+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:02.111+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:02.120+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:02.133+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:02.133+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:02.143+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:02.143+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:13:02.151+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.044 seconds
+[2026-03-29T08:13:12.332+0000] {processor.py:157} INFO - Started process (PID=1661) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:12.333+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:13:12.333+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:12.333+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:12.340+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:12.352+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:12.352+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:12.364+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:12.363+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:13:12.372+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.043 seconds
+[2026-03-29T08:13:22.633+0000] {processor.py:157} INFO - Started process (PID=1701) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:22.634+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:13:22.634+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:22.634+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:22.642+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:22.655+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:22.655+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:22.664+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:22.664+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:13:22.673+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.042 seconds
+[2026-03-29T08:13:32.938+0000] {processor.py:157} INFO - Started process (PID=1737) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:32.938+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:13:32.939+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:32.939+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:32.946+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:32.959+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:32.959+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:32.968+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:32.968+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:13:32.976+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.041 seconds
+[2026-03-29T08:13:43.225+0000] {processor.py:157} INFO - Started process (PID=1773) to work on /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:43.226+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py for tasks to queue
+[2026-03-29T08:13:43.227+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:43.227+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:43.237+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_4_mart_load_order_aggregates']) retrieved from /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py
+[2026-03-29T08:13:43.249+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:43.249+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:43.261+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:43.261+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_4_mart_load_order_aggregates to None, run_after=None
+[2026-03-29T08:13:43.270+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_4_mart_load_order_aggregates.py took 0.048 seconds

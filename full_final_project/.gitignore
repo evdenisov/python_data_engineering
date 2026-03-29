@@ -1,0 +1,102 @@
+# Airflow
+logs/
+*.log
+airflow.db
+
+# БОЛЬШИЕ ФАЙЛЫ - НЕ добавлять в git!
+*.csv
+*.json
+*.ipynb
+*.parquet
+
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Папки с данными
+data/
+dags/data/
+
+# Временные Python файлы
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+# Python virtual envs
+venv/
+env/
+
+# Docker volumes (локальные данные)
+postgres-db-volume/
+mongodb-data-volume/
+
+# Airflow logs и база
+logs/
+airflow.db
+airflow.cfg
+webserver_config.py
+
+# Секреты и конфиги
+.env
+.env.local
+*.pem
+*.key
+secrets/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# Parquet (уже есть, но добавим для надежности)
+*.parquet
+*.pq
+
+# CSV (уже есть)
+*.csv
+*.tsv
+*.xlsx
+
+# JSON (уже есть)
+*.json
+*.jsonl
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE (уже есть)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS (уже есть)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Airflow plugins (если будут)
+plugins/*/
+!plugins/.gitkeep
+
+# Данные проекта (уже есть)
+data/
+dags/data/
+final_project/data/

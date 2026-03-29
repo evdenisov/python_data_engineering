@@ -1,0 +1,903 @@
+[2026-03-29T00:04:36.466+0000] {processor.py:157} INFO - Started process (PID=49500) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:36.466+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:04:36.466+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:36.466+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:36.471+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:36.480+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:36.480+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:04:36.488+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:36.488+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:04:36.494+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T00:04:46.807+0000] {processor.py:157} INFO - Started process (PID=49536) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:46.807+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:04:46.808+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:46.808+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:46.812+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:46.821+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:46.821+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:04:46.828+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:46.828+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:04:46.834+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T00:04:57.303+0000] {processor.py:157} INFO - Started process (PID=49572) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:57.303+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:04:57.303+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:57.303+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:57.307+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:04:57.316+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:57.316+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:04:57.325+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:04:57.324+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:04:57.331+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T00:20:07.587+0000] {processor.py:157} INFO - Started process (PID=49607) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:07.588+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:20:07.589+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:07.588+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:07.600+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:07.617+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:07.617+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:20:07.628+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:07.628+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:20:07.637+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.052 seconds
+[2026-03-29T00:20:17.935+0000] {processor.py:157} INFO - Started process (PID=49638) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:17.935+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:20:17.935+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:17.935+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:17.941+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:17.951+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:17.950+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:20:17.960+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:17.960+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:20:17.966+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.033 seconds
+[2026-03-29T00:20:28.257+0000] {processor.py:157} INFO - Started process (PID=49676) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:28.257+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:20:28.258+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:28.258+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:28.261+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:20:28.269+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:28.269+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:20:28.276+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:20:28.276+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:20:28.282+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.027 seconds
+[2026-03-29T00:35:38.465+0000] {processor.py:157} INFO - Started process (PID=49717) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:38.466+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:35:38.466+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:38.466+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:38.470+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:38.478+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:38.478+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:35:38.486+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:38.486+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:35:38.492+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.028 seconds
+[2026-03-29T00:35:48.794+0000] {processor.py:157} INFO - Started process (PID=49752) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:48.794+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:35:48.796+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:48.796+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:48.802+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:48.813+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:48.812+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:35:48.820+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:48.820+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:35:48.827+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T00:35:59.171+0000] {processor.py:157} INFO - Started process (PID=49789) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:59.172+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:35:59.172+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:59.172+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:59.176+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:35:59.185+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:59.185+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:35:59.192+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:35:59.192+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:35:59.199+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T00:51:09.352+0000] {processor.py:157} INFO - Started process (PID=49825) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:09.353+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:51:09.354+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:09.353+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:09.360+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:09.372+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:09.372+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:51:09.383+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:09.383+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:51:09.391+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.041 seconds
+[2026-03-29T00:51:19.756+0000] {processor.py:157} INFO - Started process (PID=49861) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:19.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:51:19.756+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:19.756+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:19.761+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:19.771+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:19.771+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:51:19.780+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:19.780+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:51:19.787+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T00:51:30.121+0000] {processor.py:157} INFO - Started process (PID=49897) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:30.122+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T00:51:30.122+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:30.122+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:30.127+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T00:51:30.135+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:30.135+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T00:51:30.143+0000] {logging_mixin.py:151} INFO - [2026-03-29T00:51:30.143+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T00:51:30.149+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T01:06:40.304+0000] {processor.py:157} INFO - Started process (PID=49933) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:06:40.305+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:06:40.305+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:40.305+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:06:40.312+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:06:40.325+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:40.325+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:06:40.338+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:40.338+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:06:40.348+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.047 seconds
+[2026-03-29T01:06:50.611+0000] {processor.py:157} INFO - Started process (PID=49963) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:06:50.612+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:06:50.612+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:50.612+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:06:50.617+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:06:50.627+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:50.627+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:06:50.637+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:06:50.637+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:06:50.646+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T01:07:00.908+0000] {processor.py:157} INFO - Started process (PID=49999) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:07:00.909+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:07:00.909+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:07:00.909+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:07:00.916+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:07:00.925+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:07:00.925+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:07:00.934+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:07:00.934+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:07:00.942+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.035 seconds
+[2026-03-29T01:37:12.065+0000] {processor.py:157} INFO - Started process (PID=50040) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:12.066+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:37:12.066+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:12.066+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:12.073+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:12.087+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:12.087+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:37:12.102+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:12.102+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:37:12.113+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.051 seconds
+[2026-03-29T01:37:22.445+0000] {processor.py:157} INFO - Started process (PID=50071) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:22.446+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:37:22.447+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:22.447+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:22.454+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:22.462+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:22.462+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:37:22.470+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:22.470+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:37:22.479+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T01:37:32.721+0000] {processor.py:157} INFO - Started process (PID=50107) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:32.721+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:37:32.723+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:32.723+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:32.728+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:37:32.740+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:32.740+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:37:32.748+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:37:32.748+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:37:32.756+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T01:52:42.739+0000] {processor.py:157} INFO - Started process (PID=50151) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:52:42.740+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:52:42.741+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:42.741+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:52:42.747+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:52:42.759+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:42.759+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:52:42.771+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:42.771+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:52:42.781+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.043 seconds
+[2026-03-29T01:52:53.093+0000] {processor.py:157} INFO - Started process (PID=50181) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:52:53.094+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:52:53.097+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:53.097+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:52:53.102+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:52:53.111+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:53.111+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:52:53.119+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:52:53.119+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:52:53.128+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T01:53:03.431+0000] {processor.py:157} INFO - Started process (PID=50217) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:53:03.434+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T01:53:03.435+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:53:03.435+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:53:03.441+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T01:53:03.451+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:53:03.451+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T01:53:03.459+0000] {logging_mixin.py:151} INFO - [2026-03-29T01:53:03.459+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T01:53:03.467+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.037 seconds
+[2026-03-29T02:08:12.812+0000] {processor.py:157} INFO - Started process (PID=50259) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:12.812+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:08:12.813+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:12.812+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:12.817+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:12.825+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:12.825+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:08:12.833+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:12.833+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:08:12.839+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T02:08:23.175+0000] {processor.py:157} INFO - Started process (PID=50295) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:23.176+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:08:23.176+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:23.176+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:23.180+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:23.189+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:23.189+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:08:23.197+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:23.197+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:08:23.203+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T02:08:33.445+0000] {processor.py:157} INFO - Started process (PID=50325) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:33.446+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:08:33.447+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:33.447+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:33.452+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:08:33.462+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:33.462+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:08:33.474+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:08:33.474+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:08:33.484+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.040 seconds
+[2026-03-29T02:23:43.616+0000] {processor.py:157} INFO - Started process (PID=50367) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:23:43.616+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:23:43.617+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:43.617+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:23:43.622+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:23:43.630+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:43.630+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:23:43.638+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:43.638+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:23:43.645+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T02:23:54.010+0000] {processor.py:157} INFO - Started process (PID=50403) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:23:54.010+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:23:54.011+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:54.011+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:23:54.016+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:23:54.026+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:54.026+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:23:54.035+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:23:54.035+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:23:54.042+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T02:24:04.383+0000] {processor.py:157} INFO - Started process (PID=50439) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:24:04.383+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:24:04.384+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:24:04.383+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:24:04.388+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:24:04.398+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:24:04.398+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:24:04.406+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:24:04.406+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:24:04.412+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.031 seconds
+[2026-03-29T02:39:14.517+0000] {processor.py:157} INFO - Started process (PID=50477) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:14.517+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:39:14.518+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:14.518+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:14.523+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:14.532+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:14.532+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:39:14.540+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:14.540+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:39:14.546+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T02:39:24.892+0000] {processor.py:157} INFO - Started process (PID=50513) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:24.893+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:39:24.894+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:24.894+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:24.901+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:24.912+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:24.911+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:39:24.920+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:24.920+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:39:24.926+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T02:39:35.263+0000] {processor.py:157} INFO - Started process (PID=50549) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:35.264+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:39:35.264+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:35.264+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:35.269+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:39:35.278+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:35.278+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:39:35.285+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:39:35.285+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:39:35.291+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T02:54:45.387+0000] {processor.py:157} INFO - Started process (PID=50585) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:54:45.389+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:54:45.389+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:45.389+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:54:45.397+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:54:45.416+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:45.416+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:54:45.430+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:45.430+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:54:45.442+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.058 seconds
+[2026-03-29T02:54:55.824+0000] {processor.py:157} INFO - Started process (PID=50620) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:54:55.825+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:54:55.825+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:55.825+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:54:55.830+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:54:55.840+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:55.840+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:54:55.848+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:54:55.848+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:54:55.855+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T02:55:06.209+0000] {processor.py:157} INFO - Started process (PID=50657) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:55:06.210+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T02:55:06.210+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:55:06.210+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:55:06.215+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T02:55:06.223+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:55:06.223+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T02:55:06.230+0000] {logging_mixin.py:151} INFO - [2026-03-29T02:55:06.230+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T02:55:06.236+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T03:23:04.047+0000] {processor.py:157} INFO - Started process (PID=50693) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:04.047+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:23:04.048+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:04.048+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:04.052+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:04.062+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:04.062+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:23:04.070+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:04.070+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:23:04.076+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T03:23:14.428+0000] {processor.py:157} INFO - Started process (PID=50723) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:14.429+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:23:14.430+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:14.430+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:14.436+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:14.449+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:14.449+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:23:14.459+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:14.459+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:23:14.468+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.041 seconds
+[2026-03-29T03:23:24.759+0000] {processor.py:157} INFO - Started process (PID=50759) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:24.759+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:23:24.760+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:24.760+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:24.767+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:23:24.776+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:24.776+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:23:24.786+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:23:24.786+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:23:24.795+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.039 seconds
+[2026-03-29T03:34:20.549+0000] {processor.py:157} INFO - Started process (PID=50800) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:20.555+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:34:20.555+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:20.555+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:20.561+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:20.583+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:20.583+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:34:20.598+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:20.598+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:34:20.608+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.061 seconds
+[2026-03-29T03:34:30.951+0000] {processor.py:157} INFO - Started process (PID=50831) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:30.953+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:34:30.953+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:30.953+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:30.957+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:30.967+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:30.967+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:34:30.976+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:30.976+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:34:30.983+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T03:34:41.451+0000] {processor.py:157} INFO - Started process (PID=50867) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:41.451+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:34:41.452+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:41.452+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:41.458+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:34:41.472+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:41.472+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:34:41.484+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:34:41.484+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:34:41.496+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.048 seconds
+[2026-03-29T03:49:50.882+0000] {processor.py:157} INFO - Started process (PID=50908) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:49:50.884+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:49:50.885+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:49:50.885+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:49:50.888+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:49:50.897+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:49:50.897+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:49:50.906+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:49:50.906+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:49:50.913+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T03:50:01.249+0000] {processor.py:157} INFO - Started process (PID=50945) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:50:01.250+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:50:01.251+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:01.250+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:50:01.259+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:50:01.267+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:01.267+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:50:01.275+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:01.275+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:50:01.281+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T03:50:11.815+0000] {processor.py:157} INFO - Started process (PID=50981) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:50:11.816+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T03:50:11.817+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:11.817+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:50:11.825+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T03:50:11.840+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:11.840+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T03:50:11.849+0000] {logging_mixin.py:151} INFO - [2026-03-29T03:50:11.849+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T03:50:11.856+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.043 seconds
+[2026-03-29T04:05:22.007+0000] {processor.py:157} INFO - Started process (PID=51019) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:22.008+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:05:22.009+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:22.009+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:22.015+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:22.029+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:22.029+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:05:22.042+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:22.042+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:05:22.050+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T04:05:32.414+0000] {processor.py:157} INFO - Started process (PID=51055) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:32.415+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:05:32.415+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:32.415+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:32.419+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:32.428+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:32.428+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:05:32.435+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:32.435+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:05:32.442+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T04:05:42.913+0000] {processor.py:157} INFO - Started process (PID=51093) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:42.913+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:05:42.914+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:42.913+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:42.918+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:05:42.927+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:42.927+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:05:42.937+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:05:42.937+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:05:42.946+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T04:20:53.145+0000] {processor.py:157} INFO - Started process (PID=51127) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:20:53.145+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:20:53.146+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:20:53.146+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:20:53.152+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:20:53.165+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:20:53.164+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:20:53.176+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:20:53.176+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:20:53.184+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.042 seconds
+[2026-03-29T04:21:03.540+0000] {processor.py:157} INFO - Started process (PID=51163) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:21:03.541+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:21:03.541+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:03.541+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:21:03.545+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:21:03.553+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:03.553+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:21:03.561+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:03.561+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:21:03.567+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T04:21:13.895+0000] {processor.py:157} INFO - Started process (PID=51199) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:21:13.895+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:21:13.896+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:13.896+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:21:13.900+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:21:13.908+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:13.908+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:21:13.916+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:21:13.916+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:21:13.922+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T04:39:26.382+0000] {processor.py:157} INFO - Started process (PID=51235) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:26.383+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:39:26.384+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:26.384+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:26.390+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:26.403+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:26.402+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:39:26.413+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:26.413+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:39:26.421+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.040 seconds
+[2026-03-29T04:39:36.768+0000] {processor.py:157} INFO - Started process (PID=51271) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:36.769+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:39:36.769+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:36.769+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:36.773+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:36.782+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:36.782+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:39:36.790+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:36.790+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:39:36.796+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T04:39:47.089+0000] {processor.py:157} INFO - Started process (PID=51301) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:47.089+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:39:47.090+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:47.090+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:47.096+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:39:47.105+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:47.104+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:39:47.113+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:39:47.113+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:39:47.121+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T04:54:56.383+0000] {processor.py:157} INFO - Started process (PID=51343) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:54:56.384+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:54:56.384+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:54:56.384+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:54:56.388+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:54:56.398+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:54:56.398+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:54:56.406+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:54:56.406+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:54:56.412+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.031 seconds
+[2026-03-29T04:55:06.769+0000] {processor.py:157} INFO - Started process (PID=51378) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:55:06.770+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:55:06.770+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:06.770+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:55:06.775+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:55:06.784+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:06.784+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:55:06.793+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:06.793+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:55:06.799+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T04:55:17.122+0000] {processor.py:157} INFO - Started process (PID=51415) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:55:17.123+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T04:55:17.123+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:17.123+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:55:17.128+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T04:55:17.139+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:17.139+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T04:55:17.147+0000] {logging_mixin.py:151} INFO - [2026-03-29T04:55:17.147+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T04:55:17.153+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.033 seconds
+[2026-03-29T05:10:26.576+0000] {processor.py:157} INFO - Started process (PID=51453) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:26.577+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:10:26.578+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:26.577+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:26.583+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:26.592+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:26.592+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:10:26.600+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:26.600+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:10:26.608+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T05:10:36.930+0000] {processor.py:157} INFO - Started process (PID=51489) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:36.931+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:10:36.931+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:36.931+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:36.935+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:36.944+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:36.943+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:10:36.951+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:36.951+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:10:36.958+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T05:10:47.278+0000] {processor.py:157} INFO - Started process (PID=51525) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:47.279+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:10:47.279+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:47.279+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:47.283+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:10:47.292+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:47.291+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:10:47.299+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:10:47.299+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:10:47.306+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T05:40:31.469+0000] {processor.py:157} INFO - Started process (PID=51561) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:31.470+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:40:31.471+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:31.471+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:31.477+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:31.489+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:31.489+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:40:31.500+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:31.500+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:40:31.509+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.043 seconds
+[2026-03-29T05:40:41.880+0000] {processor.py:157} INFO - Started process (PID=51596) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:41.880+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:40:41.881+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:41.881+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:41.885+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:41.894+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:41.894+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:40:41.903+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:41.903+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:40:41.908+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.030 seconds
+[2026-03-29T05:40:52.282+0000] {processor.py:157} INFO - Started process (PID=51633) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:52.283+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:40:52.284+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:52.283+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:52.289+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:40:52.299+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:52.299+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:40:52.308+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:40:52.308+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:40:52.315+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T05:56:01.633+0000] {processor.py:157} INFO - Started process (PID=51669) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:01.634+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:56:01.634+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:01.634+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:01.638+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:01.647+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:01.647+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:56:01.654+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:01.654+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:56:01.660+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T05:56:11.934+0000] {processor.py:157} INFO - Started process (PID=51699) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:11.935+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:56:11.935+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:11.935+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:11.941+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:11.950+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:11.950+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:56:11.958+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:11.958+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:56:11.968+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.035 seconds
+[2026-03-29T05:56:22.388+0000] {processor.py:157} INFO - Started process (PID=51741) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:22.389+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T05:56:22.389+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:22.389+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:22.394+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T05:56:22.402+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:22.402+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T05:56:22.410+0000] {logging_mixin.py:151} INFO - [2026-03-29T05:56:22.410+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T05:56:22.416+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T06:11:32.339+0000] {processor.py:157} INFO - Started process (PID=51776) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:32.340+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:11:32.340+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:32.340+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:32.345+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:32.355+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:32.355+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:11:32.363+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:32.363+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:11:32.369+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T06:11:42.710+0000] {processor.py:157} INFO - Started process (PID=51813) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:42.710+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:11:42.711+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:42.710+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:42.717+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:42.725+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:42.725+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:11:42.734+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:42.734+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:11:42.740+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.032 seconds
+[2026-03-29T06:11:53.197+0000] {processor.py:157} INFO - Started process (PID=51849) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:53.198+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:11:53.198+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:53.198+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:53.202+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:11:53.211+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:53.211+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:11:53.218+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:11:53.218+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:11:53.224+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.028 seconds
+[2026-03-29T06:26:17.731+0000] {processor.py:157} INFO - Started process (PID=51886) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:17.736+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:26:17.736+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:17.736+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:17.744+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:17.755+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:17.755+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:26:17.766+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:17.765+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:26:17.774+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T06:26:28.061+0000] {processor.py:157} INFO - Started process (PID=51917) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:28.061+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:26:28.063+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:28.063+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:28.068+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:28.078+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:28.078+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:26:28.088+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:28.087+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:26:28.095+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T06:26:38.358+0000] {processor.py:157} INFO - Started process (PID=51953) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:38.359+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:26:38.360+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:38.360+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:38.366+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:26:38.375+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:38.375+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:26:38.383+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:26:38.383+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:26:38.391+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T06:41:48.483+0000] {processor.py:157} INFO - Started process (PID=51994) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:41:48.484+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:41:48.486+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:48.486+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:41:48.495+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:41:48.507+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:48.507+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:41:48.519+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:48.519+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:41:48.527+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.047 seconds
+[2026-03-29T06:41:58.912+0000] {processor.py:157} INFO - Started process (PID=52030) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:41:58.914+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:41:58.915+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:58.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:41:58.921+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:41:58.932+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:58.931+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:41:58.940+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:41:58.940+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:41:58.946+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T06:42:09.284+0000] {processor.py:157} INFO - Started process (PID=52067) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:42:09.285+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:42:09.286+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:42:09.286+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:42:09.293+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:42:09.302+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:42:09.302+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:42:09.309+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:42:09.309+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:42:09.316+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T06:57:19.462+0000] {processor.py:157} INFO - Started process (PID=52103) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:19.463+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:57:19.463+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:19.463+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:19.469+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:19.479+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:19.479+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:57:19.493+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:19.493+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:57:19.505+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.044 seconds
+[2026-03-29T06:57:29.820+0000] {processor.py:157} INFO - Started process (PID=52133) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:29.820+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:57:29.821+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:29.821+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:29.826+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:29.836+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:29.836+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:57:29.844+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:29.844+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:57:29.854+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.035 seconds
+[2026-03-29T06:57:40.153+0000] {processor.py:157} INFO - Started process (PID=52169) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:40.154+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T06:57:40.154+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:40.154+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:40.159+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T06:57:40.169+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:40.169+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T06:57:40.178+0000] {logging_mixin.py:151} INFO - [2026-03-29T06:57:40.177+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T06:57:40.185+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.033 seconds
+[2026-03-29T07:27:04.069+0000] {processor.py:157} INFO - Started process (PID=52211) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:04.070+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:27:04.071+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:04.071+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:04.077+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:04.090+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:04.090+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:27:04.102+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:04.102+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:27:04.112+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T07:27:14.488+0000] {processor.py:157} INFO - Started process (PID=52247) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:14.489+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:27:14.489+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:14.489+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:14.493+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:14.502+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:14.501+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:27:14.509+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:14.509+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:27:14.515+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.028 seconds
+[2026-03-29T07:27:24.811+0000] {processor.py:157} INFO - Started process (PID=52283) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:24.812+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:27:24.812+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:24.812+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:24.816+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:27:24.825+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:24.824+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:27:24.832+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:27:24.832+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:27:24.839+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.029 seconds
+[2026-03-29T07:42:35.041+0000] {processor.py:157} INFO - Started process (PID=52318) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:35.042+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:42:35.044+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:35.044+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:35.057+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:35.074+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:35.074+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:42:35.091+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:35.091+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:42:35.105+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.066 seconds
+[2026-03-29T07:42:45.419+0000] {processor.py:157} INFO - Started process (PID=52349) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:45.420+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:42:45.421+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:45.421+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:45.426+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:45.435+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:45.435+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:42:45.444+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:45.443+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:42:45.452+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T07:42:55.756+0000] {processor.py:157} INFO - Started process (PID=52385) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:55.757+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:42:55.758+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:55.758+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:55.764+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:42:55.772+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:55.772+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:42:55.782+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:42:55.781+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:42:55.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.035 seconds
+[2026-03-29T07:56:20.155+0000] {processor.py:157} INFO - Started process (PID=52427) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:20.156+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:56:20.157+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:20.157+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:20.169+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:20.187+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:20.187+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:56:20.207+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:20.206+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:56:20.219+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.070 seconds
+[2026-03-29T07:56:30.517+0000] {processor.py:157} INFO - Started process (PID=52458) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:30.518+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:56:30.519+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:30.519+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:30.524+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:30.535+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:30.535+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:56:30.544+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:30.544+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:56:30.553+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.037 seconds
+[2026-03-29T07:56:40.794+0000] {processor.py:157} INFO - Started process (PID=52494) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:40.795+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T07:56:40.796+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:40.796+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:40.802+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T07:56:40.812+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:40.812+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T07:56:40.821+0000] {logging_mixin.py:151} INFO - [2026-03-29T07:56:40.821+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T07:56:40.829+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.036 seconds
+[2026-03-29T08:06:23.165+0000] {processor.py:157} INFO - Started process (PID=170) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:23.166+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:06:23.166+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:23.166+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:23.177+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:23.299+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:23.299+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:23.324+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:23.324+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:06:23.333+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.170 seconds
+[2026-03-29T08:06:33.611+0000] {processor.py:157} INFO - Started process (PID=205) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:33.612+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:06:33.614+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:33.614+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:33.629+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:33.637+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:33.637+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:33.653+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:33.653+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:06:33.666+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.058 seconds
+[2026-03-29T08:06:43.896+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:43.897+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:06:43.898+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:43.897+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:43.911+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:43.921+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:43.921+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:43.931+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:43.931+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:06:43.944+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.050 seconds
+[2026-03-29T08:06:54.167+0000] {processor.py:157} INFO - Started process (PID=277) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:54.168+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:06:54.170+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:54.170+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:54.180+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:06:54.203+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:54.203+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:06:54.216+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:06:54.216+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:06:54.231+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.067 seconds
+[2026-03-29T08:07:04.439+0000] {processor.py:157} INFO - Started process (PID=313) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:04.441+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:07:04.442+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:04.441+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:04.449+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:04.466+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:04.466+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:04.477+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:04.477+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:07:04.489+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.053 seconds
+[2026-03-29T08:07:14.724+0000] {processor.py:157} INFO - Started process (PID=349) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:14.725+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:07:14.727+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:14.727+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:14.739+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:14.754+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:14.754+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:14.766+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:14.766+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:07:14.778+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.056 seconds
+[2026-03-29T08:07:25.010+0000] {processor.py:157} INFO - Started process (PID=385) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:25.010+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:07:25.012+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:25.012+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:25.021+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:25.040+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:25.040+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:25.052+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:25.051+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:07:25.067+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.061 seconds
+[2026-03-29T08:07:35.309+0000] {processor.py:157} INFO - Started process (PID=421) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:35.310+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:07:35.313+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:35.312+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:35.321+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:35.340+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:35.340+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:35.354+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:35.354+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:07:35.366+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.060 seconds
+[2026-03-29T08:07:45.598+0000] {processor.py:157} INFO - Started process (PID=457) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:45.599+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:07:45.601+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:45.600+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:45.610+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:45.628+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:45.628+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:45.641+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:45.641+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:07:45.657+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.062 seconds
+[2026-03-29T08:07:55.869+0000] {processor.py:157} INFO - Started process (PID=493) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:55.870+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:07:55.872+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:55.872+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:55.880+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:07:55.901+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:55.901+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:07:55.920+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:07:55.919+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:07:55.933+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.067 seconds
+[2026-03-29T08:08:06.158+0000] {processor.py:157} INFO - Started process (PID=529) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:06.159+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:08:06.161+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:06.161+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:06.169+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:06.186+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:06.186+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:06.201+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:06.201+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:08:06.215+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.059 seconds
+[2026-03-29T08:08:16.436+0000] {processor.py:157} INFO - Started process (PID=565) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:16.436+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:08:16.437+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:16.437+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:16.449+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:16.465+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:16.465+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:16.478+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:16.478+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:08:16.491+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.058 seconds
+[2026-03-29T08:08:26.727+0000] {processor.py:157} INFO - Started process (PID=603) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:26.730+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:08:26.731+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:26.731+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:26.739+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:26.754+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:26.754+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:26.764+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:26.764+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:08:26.837+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.113 seconds
+[2026-03-29T08:08:37.248+0000] {processor.py:157} INFO - Started process (PID=639) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:37.249+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:08:37.249+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:37.249+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:37.255+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:37.272+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:37.272+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:37.382+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:37.382+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:08:37.396+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.149 seconds
+[2026-03-29T08:08:47.765+0000] {processor.py:157} INFO - Started process (PID=675) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:47.766+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:08:47.767+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:47.767+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:47.775+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:47.790+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:47.790+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:47.858+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:47.858+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:08:47.867+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.106 seconds
+[2026-03-29T08:08:58.172+0000] {processor.py:157} INFO - Started process (PID=711) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:58.173+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:08:58.174+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:58.174+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:58.185+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:08:58.262+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:58.262+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:08:58.269+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:08:58.269+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:08:58.277+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.108 seconds
+[2026-03-29T08:09:08.697+0000] {processor.py:157} INFO - Started process (PID=747) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:08.697+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:09:08.698+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:08.698+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:08.772+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:08.782+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:08.781+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:08.790+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:08.790+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:09:08.798+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.104 seconds
+[2026-03-29T08:09:19.127+0000] {processor.py:157} INFO - Started process (PID=783) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:19.128+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:09:19.129+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:19.129+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:19.137+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:19.151+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:19.151+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:19.162+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:19.162+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:09:19.172+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.048 seconds
+[2026-03-29T08:09:29.409+0000] {processor.py:157} INFO - Started process (PID=819) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:29.411+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:09:29.412+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:29.412+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:29.419+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:29.432+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:29.432+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:29.444+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:29.444+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:09:29.454+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.048 seconds
+[2026-03-29T08:09:39.673+0000] {processor.py:157} INFO - Started process (PID=855) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:39.673+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:09:39.674+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:39.674+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:39.680+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:39.694+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:39.694+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:39.705+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:39.705+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:09:39.716+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.046 seconds
+[2026-03-29T08:09:49.950+0000] {processor.py:157} INFO - Started process (PID=891) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:49.952+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:09:49.953+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:49.952+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:49.963+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:09:49.984+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:49.984+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:09:50.000+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:09:50.000+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:09:50.014+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.067 seconds
+[2026-03-29T08:10:00.280+0000] {processor.py:157} INFO - Started process (PID=927) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:00.280+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:10:00.281+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:00.281+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:00.287+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:00.300+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:00.300+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:00.310+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:00.310+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:10:00.322+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T08:10:10.518+0000] {processor.py:157} INFO - Started process (PID=963) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:10.523+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:10:10.524+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:10.524+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:10.534+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:10.550+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:10.550+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:10.562+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:10.562+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:10:10.573+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.058 seconds
+[2026-03-29T08:10:20.824+0000] {processor.py:157} INFO - Started process (PID=999) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:20.825+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:10:20.826+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:20.826+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:20.834+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:20.852+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:20.851+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:20.864+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:20.864+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:10:20.874+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.054 seconds
+[2026-03-29T08:10:31.081+0000] {processor.py:157} INFO - Started process (PID=1035) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:31.082+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:10:31.083+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:31.082+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:31.089+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:31.103+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:31.103+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:31.113+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:31.113+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:10:31.123+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T08:10:41.334+0000] {processor.py:157} INFO - Started process (PID=1071) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:41.335+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:10:41.336+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:41.336+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:41.342+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:41.356+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:41.355+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:41.367+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:41.367+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:10:41.378+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.046 seconds
+[2026-03-29T08:10:51.617+0000] {processor.py:157} INFO - Started process (PID=1107) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:51.620+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:10:51.620+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:51.620+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:51.628+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:10:51.641+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:51.641+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:10:51.655+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:10:51.655+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:10:51.666+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.053 seconds
+[2026-03-29T08:11:01.880+0000] {processor.py:157} INFO - Started process (PID=1143) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:01.882+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:01.883+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:01.882+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:01.891+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:01.906+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:01.906+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:01.917+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:01.917+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:01.927+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.050 seconds
+[2026-03-29T08:11:12.141+0000] {processor.py:157} INFO - Started process (PID=1179) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:12.142+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:12.143+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:12.142+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:12.150+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:12.165+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:12.165+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:12.177+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:12.177+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:12.188+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.051 seconds
+[2026-03-29T08:11:22.394+0000] {processor.py:157} INFO - Started process (PID=1215) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:22.397+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:22.398+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:22.398+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:22.405+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:22.419+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:22.419+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:22.431+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:22.431+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:22.443+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.052 seconds
+[2026-03-29T08:11:32.888+0000] {processor.py:157} INFO - Started process (PID=1264) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:32.889+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:32.890+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:32.889+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:32.898+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:32.915+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:32.915+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:32.925+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:32.925+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:32.933+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.048 seconds
+[2026-03-29T08:11:39.155+0000] {processor.py:157} INFO - Started process (PID=1303) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:39.156+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:39.157+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:39.157+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:39.168+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:39.219+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:39.219+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:39.227+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:39.227+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:39.236+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.084 seconds
+[2026-03-29T08:11:49.441+0000] {processor.py:157} INFO - Started process (PID=1339) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:49.442+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:49.443+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:49.443+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:49.451+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:49.460+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:49.460+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:49.473+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:49.472+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:49.482+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T08:11:59.728+0000] {processor.py:157} INFO - Started process (PID=1379) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:59.729+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:11:59.730+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:59.730+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:59.738+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:11:59.747+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:59.747+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:11:59.758+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:11:59.758+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:11:59.765+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.041 seconds
+[2026-03-29T08:12:09.914+0000] {processor.py:157} INFO - Started process (PID=1428) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:09.914+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:12:09.915+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:09.915+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:09.919+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:09.928+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:09.928+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:09.938+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:09.938+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:12:09.946+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T08:12:20.111+0000] {processor.py:157} INFO - Started process (PID=1464) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:20.112+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:12:20.112+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:20.112+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:20.118+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:20.130+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:20.130+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:20.140+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:20.140+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:12:20.148+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.040 seconds
+[2026-03-29T08:12:30.297+0000] {processor.py:157} INFO - Started process (PID=1500) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:30.297+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:12:30.298+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:30.298+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:30.303+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:30.312+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:30.312+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:30.321+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:30.321+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:12:30.329+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.034 seconds
+[2026-03-29T08:12:40.555+0000] {processor.py:157} INFO - Started process (PID=1536) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:40.556+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:12:40.556+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:40.556+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:40.564+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:40.575+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:40.575+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:40.588+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:40.588+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:12:40.596+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T08:12:50.833+0000] {processor.py:157} INFO - Started process (PID=1576) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:50.834+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:12:50.835+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:50.835+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:50.841+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:12:50.852+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:50.852+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:12:50.861+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:12:50.861+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:12:50.868+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.037 seconds
+[2026-03-29T08:13:01.051+0000] {processor.py:157} INFO - Started process (PID=1616) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:01.052+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:13:01.052+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:01.052+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:01.061+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:01.075+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:01.074+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:01.085+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:01.084+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:13:01.093+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T08:13:11.295+0000] {processor.py:157} INFO - Started process (PID=1656) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:11.297+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:13:11.298+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:11.297+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:11.305+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:11.317+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:11.317+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:11.327+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:11.327+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:13:11.334+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.042 seconds
+[2026-03-29T08:13:21.571+0000] {processor.py:157} INFO - Started process (PID=1696) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:21.572+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:13:21.572+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:21.572+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:21.580+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:21.594+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:21.594+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:21.605+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:21.605+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:13:21.613+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.045 seconds
+[2026-03-29T08:13:31.881+0000] {processor.py:157} INFO - Started process (PID=1732) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:31.882+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:13:31.883+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:31.883+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:31.891+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:31.906+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:31.906+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:31.916+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:31.916+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:13:31.924+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.046 seconds
+[2026-03-29T08:13:42.163+0000] {processor.py:157} INFO - Started process (PID=1768) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:42.164+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:13:42.165+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:42.165+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:42.174+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:42.191+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:42.190+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:42.202+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:42.202+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:13:42.209+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.049 seconds
+[2026-03-29T08:13:52.441+0000] {processor.py:157} INFO - Started process (PID=1804) to work on /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:52.442+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/PDE_0_create_schema_and_tables.py for tasks to queue
+[2026-03-29T08:13:52.442+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:52.442+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:52.449+0000] {processor.py:839} INFO - DAG(s) dict_keys(['PDE_0_create_schema_and_tables']) retrieved from /opt/airflow/dags/PDE_0_create_schema_and_tables.py
+[2026-03-29T08:13:52.462+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:52.462+0000] {dag.py:2907} INFO - Sync 1 DAGs
+[2026-03-29T08:13:52.475+0000] {logging_mixin.py:151} INFO - [2026-03-29T08:13:52.475+0000] {dag.py:3677} INFO - Setting next_dagrun for PDE_0_create_schema_and_tables to None, run_after=None
+[2026-03-29T08:13:52.485+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/PDE_0_create_schema_and_tables.py took 0.047 seconds

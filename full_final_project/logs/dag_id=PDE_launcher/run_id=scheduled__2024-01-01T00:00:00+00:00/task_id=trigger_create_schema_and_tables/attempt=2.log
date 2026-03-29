@@ -1,0 +1,14 @@
+[2026-03-28T11:44:14.048+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_launcher.trigger_create_schema_and_tables scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-28T11:44:14.051+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_launcher.trigger_create_schema_and_tables scheduled__2024-01-01T00:00:00+00:00 [queued]>
+[2026-03-28T11:44:14.052+0000] {taskinstance.py:1361} INFO - Starting attempt 2 of 2
+[2026-03-28T11:44:14.058+0000] {taskinstance.py:1382} INFO - Executing <Task(TriggerDagRunOperator): trigger_create_schema_and_tables> on 2024-01-01 00:00:00+00:00
+[2026-03-28T11:44:14.061+0000] {standard_task_runner.py:57} INFO - Started process 324 to run task
+[2026-03-28T11:44:14.063+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_launcher', 'trigger_create_schema_and_tables', 'scheduled__2024-01-01T00:00:00+00:00', '--job-id', '20', '--raw', '--subdir', 'DAGS_FOLDER/PDE_dags_launcher.py', '--cfg-path', '/tmp/tmpkybs628w']
+[2026-03-28T11:44:14.064+0000] {standard_task_runner.py:85} INFO - Job 20: Subtask trigger_create_schema_and_tables
+[2026-03-28T11:44:14.086+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_launcher.trigger_create_schema_and_tables scheduled__2024-01-01T00:00:00+00:00 [running]> on host fff55fa1f1fa
+[2026-03-28T11:44:14.119+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_launcher' AIRFLOW_CTX_TASK_ID='trigger_create_schema_and_tables' AIRFLOW_CTX_EXECUTION_DATE='2024-01-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-01-01T00:00:00+00:00'
+[2026-03-28T11:44:14.145+0000] {trigger_dagrun.py:209} INFO - Waiting for PDE_0_create_schema_and_tables on 2026-03-28T11:44:14.120066+00:00 to become allowed state ['success'] ...
+[2026-03-28T11:44:24.153+0000] {trigger_dagrun.py:222} INFO - PDE_0_create_schema_and_tables finished with allowed state success
+[2026-03-28T11:44:24.158+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PDE_launcher, task_id=trigger_create_schema_and_tables, execution_date=20240101T000000, start_date=20260328T114414, end_date=20260328T114424
+[2026-03-28T11:44:24.179+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-28T11:44:24.193+0000] {taskinstance.py:2784} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,14 @@
+[2026-03-27T11:29:05.795+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_launcher.trigger_transform_raw_data manual__2026-03-27T11:28:10.946385+00:00 [queued]>
+[2026-03-27T11:29:05.798+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_launcher.trigger_transform_raw_data manual__2026-03-27T11:28:10.946385+00:00 [queued]>
+[2026-03-27T11:29:05.798+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-27T11:29:05.802+0000] {taskinstance.py:1382} INFO - Executing <Task(TriggerDagRunOperator): trigger_transform_raw_data> on 2026-03-27 11:28:10.946385+00:00
+[2026-03-27T11:29:05.804+0000] {standard_task_runner.py:57} INFO - Started process 800 to run task
+[2026-03-27T11:29:05.805+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_launcher', 'trigger_transform_raw_data', 'manual__2026-03-27T11:28:10.946385+00:00', '--job-id', '48', '--raw', '--subdir', 'DAGS_FOLDER/PDE_dags_launcher.py', '--cfg-path', '/tmp/tmpu3wa6n99']
+[2026-03-27T11:29:05.807+0000] {standard_task_runner.py:85} INFO - Job 48: Subtask trigger_transform_raw_data
+[2026-03-27T11:29:05.823+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_launcher.trigger_transform_raw_data manual__2026-03-27T11:28:10.946385+00:00 [running]> on host 079af352b570
+[2026-03-27T11:29:05.851+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_launcher' AIRFLOW_CTX_TASK_ID='trigger_transform_raw_data' AIRFLOW_CTX_EXECUTION_DATE='2026-03-27T11:28:10.946385+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-27T11:28:10.946385+00:00'
+[2026-03-27T11:29:05.872+0000] {trigger_dagrun.py:209} INFO - Waiting for PDE_2_transform_raw_data on 2026-03-27T11:29:05.852109+00:00 to become allowed state ['success'] ...
+[2026-03-27T11:29:15.883+0000] {trigger_dagrun.py:222} INFO - PDE_2_transform_raw_data finished with allowed state success
+[2026-03-27T11:29:15.896+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PDE_launcher, task_id=trigger_transform_raw_data, execution_date=20260327T112810, start_date=20260327T112905, end_date=20260327T112915
+[2026-03-27T11:29:15.919+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-27T11:29:15.954+0000] {taskinstance.py:2784} INFO - 1 downstream tasks scheduled from follow-on schedule check

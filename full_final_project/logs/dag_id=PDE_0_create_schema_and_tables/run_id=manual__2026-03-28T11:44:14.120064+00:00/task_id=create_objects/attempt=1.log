@@ -1,0 +1,31 @@
+[2026-03-28T11:44:15.084+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_0_create_schema_and_tables.create_objects manual__2026-03-28T11:44:14.120064+00:00 [queued]>
+[2026-03-28T11:44:15.087+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_0_create_schema_and_tables.create_objects manual__2026-03-28T11:44:14.120064+00:00 [queued]>
+[2026-03-28T11:44:15.087+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2026-03-28T11:44:15.092+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): create_objects> on 2026-03-28 11:44:14.120064+00:00
+[2026-03-28T11:44:15.095+0000] {standard_task_runner.py:57} INFO - Started process 328 to run task
+[2026-03-28T11:44:15.099+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_0_create_schema_and_tables', 'create_objects', 'manual__2026-03-28T11:44:14.120064+00:00', '--job-id', '22', '--raw', '--subdir', 'DAGS_FOLDER/PDE_0_create_schema_and_tables.py', '--cfg-path', '/tmp/tmpudqrsp3l']
+[2026-03-28T11:44:15.101+0000] {standard_task_runner.py:85} INFO - Job 22: Subtask create_objects
+[2026-03-28T11:44:15.123+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_0_create_schema_and_tables.create_objects manual__2026-03-28T11:44:14.120064+00:00 [running]> on host fff55fa1f1fa
+[2026-03-28T11:44:15.152+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_0_create_schema_and_tables' AIRFLOW_CTX_TASK_ID='create_objects' AIRFLOW_CTX_EXECUTION_DATE='2026-03-28T11:44:14.120064+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-28T11:44:14.120064+00:00'
+[2026-03-28T11:44:15.153+0000] {crypto.py:82} WARNING - empty cryptography key - values will not be stored encrypted.
+[2026-03-28T11:44:15.153+0000] {base.py:73} INFO - Using connection ID 'postgres_default' for task execution.
+[2026-03-28T11:44:15.157+0000] {logging_mixin.py:151} INFO - 🗑️ Старые таблицы удалены
+[2026-03-28T11:44:15.172+0000] {logging_mixin.py:151} INFO - ❌ Ошибка при создании объектов: duplicate key value violates unique constraint "pg_type_typname_nsp_index"
+DETAIL:  Key (typname, typnamespace)=(raw_parquet_data_id_seq, 17097) already exists.
+[2026-03-28T11:44:15.172+0000] {taskinstance.py:1943} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/PDE_0_create_schema_and_tables.py", line 40, in create_objects
+    cursor.execute("""
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "pg_type_typname_nsp_index"
+DETAIL:  Key (typname, typnamespace)=(raw_parquet_data_id_seq, 17097) already exists.
+
+[2026-03-28T11:44:15.177+0000] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=PDE_0_create_schema_and_tables, task_id=create_objects, execution_date=20260328T114414, start_date=20260328T114415, end_date=20260328T114415
+[2026-03-28T11:44:15.180+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 22 for task create_objects (duplicate key value violates unique constraint "pg_type_typname_nsp_index"
+DETAIL:  Key (typname, typnamespace)=(raw_parquet_data_id_seq, 17097) already exists.
+; 328)
+[2026-03-28T11:44:15.196+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2026-03-28T11:44:15.203+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check

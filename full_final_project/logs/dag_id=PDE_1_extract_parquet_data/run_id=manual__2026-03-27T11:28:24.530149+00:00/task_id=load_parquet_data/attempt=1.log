@@ -1,0 +1,17 @@
+[2026-03-27T11:28:25.648+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: PDE_1_extract_parquet_data.load_parquet_data manual__2026-03-27T11:28:24.530149+00:00 [queued]>
+[2026-03-27T11:28:25.651+0000] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: PDE_1_extract_parquet_data.load_parquet_data manual__2026-03-27T11:28:24.530149+00:00 [queued]>
+[2026-03-27T11:28:25.651+0000] {taskinstance.py:1361} INFO - Starting attempt 1 of 1
+[2026-03-27T11:28:25.655+0000] {taskinstance.py:1382} INFO - Executing <Task(PythonOperator): load_parquet_data> on 2026-03-27 11:28:24.530149+00:00
+[2026-03-27T11:28:25.657+0000] {standard_task_runner.py:57} INFO - Started process 646 to run task
+[2026-03-27T11:28:25.659+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'PDE_1_extract_parquet_data', 'load_parquet_data', 'manual__2026-03-27T11:28:24.530149+00:00', '--job-id', '47', '--raw', '--subdir', 'DAGS_FOLDER/PDE_1_extract_parquet_data.py', '--cfg-path', '/tmp/tmpu12zlppg']
+[2026-03-27T11:28:25.660+0000] {standard_task_runner.py:85} INFO - Job 47: Subtask load_parquet_data
+[2026-03-27T11:28:25.677+0000] {task_command.py:415} INFO - Running <TaskInstance: PDE_1_extract_parquet_data.load_parquet_data manual__2026-03-27T11:28:24.530149+00:00 [running]> on host 079af352b570
+[2026-03-27T11:28:25.778+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data_team' AIRFLOW_CTX_DAG_ID='PDE_1_extract_parquet_data' AIRFLOW_CTX_TASK_ID='load_parquet_data' AIRFLOW_CTX_EXECUTION_DATE='2026-03-27T11:28:24.530149+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-03-27T11:28:24.530149+00:00'
+[2026-03-27T11:28:25.781+0000] {logging_mixin.py:151} INFO - 📂 Для загрузки выбрано файлов: 1 из 34
+[2026-03-27T11:28:25.784+0000] {base.py:73} INFO - Using connection ID 'postgres_default' for task execution.
+[2026-03-27T11:28:25.787+0000] {logging_mixin.py:151} INFO - 🗑️ Таблица очищена
+[2026-03-27T11:29:02.876+0000] {logging_mixin.py:151} INFO - ✅ chunk_1560001_1570000.parquet: 287547 строк
+[2026-03-27T11:29:02.925+0000] {python.py:194} INFO - Done. Returned value was: None
+[2026-03-27T11:29:02.930+0000] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=PDE_1_extract_parquet_data, task_id=load_parquet_data, execution_date=20260327T112824, start_date=20260327T112825, end_date=20260327T112902
+[2026-03-27T11:29:02.957+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2026-03-27T11:29:02.964+0000] {taskinstance.py:2784} INFO - 0 downstream tasks scheduled from follow-on schedule check
